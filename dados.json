@@ -1,0 +1,3773 @@
+{
+  "snapshotDate": "30/08/2026",
+  "projetos": [
+    "HCB",
+    "HEAPA",
+    "TEO",
+    "LRV",
+    "HBB",
+    "SL",
+    "HSJ",
+    "AJ",
+    "SCBH",
+    "HSSM",
+    "HNSG",
+    "FSFA"
+  ],
+  "pcolor": {
+    "HCB": "#2DD4BF",
+    "HEAPA": "#B79CFF",
+    "TEO": "#F5B95C",
+    "LRV": "#67E8F9",
+    "HBB": "#FB7185",
+    "SL": "#86EFAC",
+    "HSJ": "#FDE047",
+    "AJ": "#FB923C",
+    "SCBH": "#A3E635",
+    "HSSM": "#F472B6",
+    "HNSG": "#38BDF8",
+    "FSFA": "#C084FC"
+  },
+  "pstate": {
+    "HCB": "RS",
+    "HEAPA": "GO",
+    "TEO": "MG",
+    "LRV": "MT",
+    "HBB": "RS",
+    "SL": "MG",
+    "HSJ": "MG",
+    "AJ": "GO",
+    "SCBH": "MG",
+    "HSSM": "RS",
+    "HNSG": "MG",
+    "FSFA": "MG"
+  },
+  "estados": [
+    "RS",
+    "GO",
+    "MG",
+    "MT"
+  ],
+  "rows": [
+    {
+      "projeto": "HCB",
+      "mes": "Janeiro",
+      "data": "06/01",
+      "status": "Realizada",
+      "ini": "09:40",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/13c4qOj9c19R96E59Co-wdBSKn0kJtMVt/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Janeiro",
+      "data": "07/01",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/13c4qOj9c19R96E59Co-wdBSKn0kJtMVt/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Janeiro",
+      "data": "21/01",
+      "status": "Realizada",
+      "ini": "09:30",
+      "fim": "16:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1X5HkBKB5kycPgIVOrJB9RlX7rL8U5QwB/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Janeiro",
+      "data": "22/01",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "14:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1X5HkBKB5kycPgIVOrJB9RlX7rL8U5QwB/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Fevereiro",
+      "data": "04/02",
+      "status": "Realizada",
+      "ini": "09:40",
+      "fim": "16:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1jDJntEsOqnbM2xzHQDr6TNSkYVHdn8dM/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Fevereiro",
+      "data": "05/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1jDJntEsOqnbM2xzHQDr6TNSkYVHdn8dM/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Fevereiro",
+      "data": "18/02",
+      "status": "Realizada",
+      "ini": "10:30",
+      "fim": "16:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1MqU3NKjr15pms5tmInUGmDEsGGKXO7B-/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Fevereiro",
+      "data": "19/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "13:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1MqU3NKjr15pms5tmInUGmDEsGGKXO7B-/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Março",
+      "data": "03/03",
+      "status": "Realizada",
+      "ini": "09:40",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/10e7kq8_4A-XgXoyJMgcPPZ4EsVyZV6Q3/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Março",
+      "data": "04/03",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "14:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/10e7kq8_4A-XgXoyJMgcPPZ4EsVyZV6Q3/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Março",
+      "data": "17/03",
+      "status": "Realizada",
+      "ini": "09:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1-IX3A9aw1dQzQlN4b_Cd80oi-2Eo-k55/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Março",
+      "data": "18/03",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "14:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1-IX3A9aw1dQzQlN4b_Cd80oi-2Eo-k55/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Abril",
+      "data": "07/04",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "18:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1Zp__yPVgLGrGbFctwRpmTSIvT14JyzQR/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Abril",
+      "data": "08/04",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "14:20",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1Zp__yPVgLGrGbFctwRpmTSIvT14JyzQR/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Abril",
+      "data": "22/04",
+      "status": "Realizada",
+      "ini": "10:00",
+      "fim": "21:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/18MHUfIwjMbEdbMcv_8mXByo4J0CWf4ZH/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Abril",
+      "data": "23/04",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "14:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/18MHUfIwjMbEdbMcv_8mXByo4J0CWf4ZH/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Maio",
+      "data": "06/05",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "18:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1gNb5kZMV6Ky4g-z0k4wbv6M-JR5hnxCx/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Maio",
+      "data": "07/05",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "14:20",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1gNb5kZMV6Ky4g-z0k4wbv6M-JR5hnxCx/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Maio",
+      "data": "19/05",
+      "status": "Realizada",
+      "ini": "10:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1fdsVRi1MoBqm2V5U4KUQg74EOQ0oNtsH/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Maio",
+      "data": "20/05",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1fdsVRi1MoBqm2V5U4KUQg74EOQ0oNtsH/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Junho",
+      "data": "02/06",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1ukA2ZMANF1DnGa7svoYBosRtZDICopII/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Junho",
+      "data": "03/06",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "14:20",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1ukA2ZMANF1DnGa7svoYBosRtZDICopII/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Junho",
+      "data": "16/06",
+      "status": "Realizada",
+      "ini": "10:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1WEVBiVWWrNXRnEN2o6CCspKFybo0S1RB/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Junho",
+      "data": "17/06",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1WEVBiVWWrNXRnEN2o6CCspKFybo0S1RB/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Julho",
+      "data": "01/07",
+      "status": "Realizada",
+      "ini": "10:30",
+      "fim": "16:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1s8BoGWu4SxtCJj4wpSTk335GM6ZWvCo3/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Julho",
+      "data": "02/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "14:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1s8BoGWu4SxtCJj4wpSTk335GM6ZWvCo3/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Julho",
+      "data": "21/07",
+      "status": "Realizada",
+      "ini": "10:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1Z4O6Bxypmw5rGvjv5ztP8ZVtrvwEc5_S/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Julho",
+      "data": "22/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "11:40",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1Z4O6Bxypmw5rGvjv5ztP8ZVtrvwEc5_S/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Agosto",
+      "data": "03/08",
+      "status": "Realizada",
+      "ini": "09:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1p5I1d-lXPokMmz-7Wj3xNP_-e_hfmBAk/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Agosto",
+      "data": "04/08",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "12:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1p5I1d-lXPokMmz-7Wj3xNP_-e_hfmBAk/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Agosto",
+      "data": "18/08",
+      "status": "Realizada",
+      "ini": "09:00",
+      "fim": "17:00",
+      "obs": "Corrigido de 'Planejada' para 'Realizada' (checagem de calendário, Passo 7): a visita já ocorreu — 18/08/2026 é anterior a hoje (19/08/2026). Horários mantidos conforme tabela real do documento ('HCB - Agenda semanal 18 e 19.08.docx', emissão 12/08/2026). Documento anterior 'Cópia de HCB - Agenda semanal 03 e 04 agosto.docx' que causava a inconsistência era apenas cópia duplicada da agenda de 03-04/08 e foi descartado.",
+      "url": "https://drive.google.com/file/d/1l4v29ZufvIImXVXsjJHneKCTN2rZc-2p/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Agosto",
+      "data": "19/08",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "12:00",
+      "obs": "Pendência resolvida — ver observação de 18/08. Tabela do dia 19/08 contém apenas seção Manhã (08:00–12:00), sem seção Tarde. Corrigido de 'Planejada' para 'Realizada' em 21/08/2026: a visita já ocorreu — não houve alteração no documento-fonte que disparasse a correção automaticamente antes (checagem de calendário, Passo 7).",
+      "url": "https://drive.google.com/file/d/1l4v29ZufvIImXVXsjJHneKCTN2rZc-2p/view"
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Setembro",
+      "data": "15/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Setembro",
+      "data": "16/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Setembro",
+      "data": "30/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — workshop de segurança do paciente.",
+      "url": null
+    },
+    {
+      "projeto": "HCB",
+      "mes": "Setembro",
+      "data": "01/10",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — workshop de segurança do paciente.",
+      "url": null
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Janeiro",
+      "data": "26/01",
+      "status": "Realizada",
+      "ini": "11:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1fuHSlwaWny1SHPUcmOExilWptEeohwXa/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Janeiro",
+      "data": "27/01",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:30",
+      "obs": "Ponto único no último item.",
+      "url": "https://drive.google.com/file/d/1fuHSlwaWny1SHPUcmOExilWptEeohwXa/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Janeiro",
+      "data": "28/01",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1fuHSlwaWny1SHPUcmOExilWptEeohwXa/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Janeiro",
+      "data": "29/01",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "Ponto único no último item.",
+      "url": "https://drive.google.com/file/d/1fuHSlwaWny1SHPUcmOExilWptEeohwXa/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Fevereiro",
+      "data": "24/02",
+      "status": "Realizada",
+      "ini": "10:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/15SVKCbhqjWwCCZqdwoa5nq6YViMjvOE5/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Fevereiro",
+      "data": "25/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/15SVKCbhqjWwCCZqdwoa5nq6YViMjvOE5/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Fevereiro",
+      "data": "26/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/15SVKCbhqjWwCCZqdwoa5nq6YViMjvOE5/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Fevereiro",
+      "data": "27/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/15SVKCbhqjWwCCZqdwoa5nq6YViMjvOE5/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Março",
+      "data": "16/03",
+      "status": "Realizada",
+      "ini": "10:00",
+      "fim": "15:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1oBHpIthyTcptXPa4fKhlas-6Wu2pGByv/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Março",
+      "data": "17/03",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1oBHpIthyTcptXPa4fKhlas-6Wu2pGByv/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Março",
+      "data": "18/03",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1oBHpIthyTcptXPa4fKhlas-6Wu2pGByv/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Março",
+      "data": "30/03",
+      "status": "Realizada",
+      "ini": "10:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1HOyhzCqN4L2bvqY_cXA68HBw0x6U_Dj2/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Março",
+      "data": "31/03",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1HOyhzCqN4L2bvqY_cXA68HBw0x6U_Dj2/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Abril",
+      "data": "06/04",
+      "status": "Realizada",
+      "ini": "10:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1mMls5ajrnj2UnzA6ITyWIU7ekrih-D8x/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Abril",
+      "data": "07/04",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1mMls5ajrnj2UnzA6ITyWIU7ekrih-D8x/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Abril",
+      "data": "09/04",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1xhY7esLHVjMm5wZVVL5nDd1QYjMcCZNV/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Abril",
+      "data": "10/04",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1xhY7esLHVjMm5wZVVL5nDd1QYjMcCZNV/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Abril",
+      "data": "27/04",
+      "status": "Realizada",
+      "ini": "11:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1RxLcBf2YzPD5C4uYFN5AnhPrFYcw5Liq/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Abril",
+      "data": "28/04",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1RxLcBf2YzPD5C4uYFN5AnhPrFYcw5Liq/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Maio",
+      "data": "04/05",
+      "status": "Realizada",
+      "ini": "11:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/12x6Ko-tFjRFtmqw_ZQzGMDfI4PtOfiHk/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Maio",
+      "data": "07/05",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/12x6Ko-tFjRFtmqw_ZQzGMDfI4PtOfiHk/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Maio",
+      "data": "18/05",
+      "status": "Realizada",
+      "ini": "11:15",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/13GZlNXOtyChTzEnXS-yrQCerPw1Tap3i/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Maio",
+      "data": "19/05",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "11:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/13GZlNXOtyChTzEnXS-yrQCerPw1Tap3i/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Junho",
+      "data": "08/06",
+      "status": "Realizada",
+      "ini": "10:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1hWIBWhuN9E8etb-YNADqbpD7ma70qYqB/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Junho",
+      "data": "09/06",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1hWIBWhuN9E8etb-YNADqbpD7ma70qYqB/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Junho",
+      "data": "29/06",
+      "status": "Realizada",
+      "ini": "11:15",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1_4JZmqynweEvEXUfHdGWLVictH2DGuhR/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Junho",
+      "data": "30/06",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1_4JZmqynweEvEXUfHdGWLVictH2DGuhR/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Julho",
+      "data": "13/07",
+      "status": "Realizada",
+      "ini": "11:15",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1LkN3e19jOb7Mk2iBqKgMb4ua9aJ03pyM/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Julho",
+      "data": "14/07",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1LkN3e19jOb7Mk2iBqKgMb4ua9aJ03pyM/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Julho",
+      "data": "28/07",
+      "status": "Realizada",
+      "ini": "11:15",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1Vyn5i1XDJzaAGFDpFuCLmOLEYZHJgIX3/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Julho",
+      "data": "31/07",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1Vyn5i1XDJzaAGFDpFuCLmOLEYZHJgIX3/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Agosto",
+      "data": "17/08",
+      "status": "Realizada",
+      "ini": "10:00",
+      "fim": "17:00",
+      "obs": "Corrigido de 'Planejada' para 'Realizada' (checagem de calendário, Passo 7): a visita já ocorreu — 17/08/2026 é anterior a hoje (18/08/2026) — e o documento-fonte nunca foi revisitado após a data passar. Horários mantidos conforme tabela original ('Agenda semanal 17 e 18 HEAPA (1).docx', emissão 12/08/2026).",
+      "url": "https://drive.google.com/file/d/1BcHGtehIoj5ZcSu3mdd3uz7KifCBHSKb/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Agosto",
+      "data": "18/08",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "Pendência resolvida: documento 'Agenda semanal 17 e 18 HEAPA (1).docx' foi corrigido no Drive em 18/08/2026 16:47 — a tabela interna agora traz corretamente 'Dia [18/08/2026] — [Terça Feira]' (antes rotulada erroneamente 'Dia 19/08/2026'). Manhã 08:00–12:00 + Tarde 13:00–17:00 (Fechamento da visita com equipe/owner). Status 'Realizada' pois a data já passou (checagem de calendário, Passo 7).",
+      "url": "https://drive.google.com/file/d/1BcHGtehIoj5ZcSu3mdd3uz7KifCBHSKb/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Agosto",
+      "data": "24/08",
+      "status": "Realizada",
+      "ini": "10:00",
+      "fim": "17:00",
+      "obs": "Agenda semanal detalhada emitida ('Agenda semanal 24 e 25 HEAPA (1).docx', emissão 12/08/2026, carregada no Drive 18/08/2026). Vários blocos de horário na tabela sem atividade nomeada; único item nomeado da manhã é 'Reunião diretiva' (11:00–12:00) e da tarde 'Reunião com TI' (15:00–16:00) — início/fim seguem os horários dos blocos da tabela (Manhã+Tarde combinadas), não das atividades nomeadas. Corrigido de 'Planejada' para 'Realizada' em 27/08/2026: a visita já ocorreu — não houve alteração no documento-fonte que disparasse a correção automaticamente antes (checagem de calendário, Passo 7).",
+      "url": "https://drive.google.com/file/d/1xjT4VyP95tgimnNuC33aDIB0q3Ln-AX_/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Agosto",
+      "data": "25/08",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "Ver observação de 24/08 — mesmo documento ('Agenda semanal 24 e 25 HEAPA (1).docx', carregado no Drive 18/08/2026). Manhã e Tarde combinadas: Acompanhamento de Round Multi (08:00–09:00), Acompanhamento da tele (10:00–11:00), Visita ao Bloco Cirúrgico (14:00–15:00), Tutoria Presencial (15:00–16:00), Fechamento da visita com equipe/owner (16:00–17:00). Corrigido de 'Planejada' para 'Realizada' em 27/08/2026: a visita já ocorreu — não houve alteração no documento-fonte que disparasse a correção automaticamente antes (checagem de calendário, Passo 7).",
+      "url": "https://drive.google.com/file/d/1xjT4VyP95tgimnNuC33aDIB0q3Ln-AX_/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Setembro",
+      "data": "14/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida. Fonte: 'Cronograma Setembro HEAPA (1).docx', emissão 12/08/2026 (Visita 1/set — Camila e Samuel); o documento declara que o cronograma detalhado com horários será enviado na semana anterior à visita.",
+      "url": "https://drive.google.com/file/d/1s9U01tU6KqeJHhdMgLpJhO8MAc6GQtcS/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Setembro",
+      "data": "15/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Ver observação de 14/09 — mesmo documento ('Cronograma Setembro HEAPA (1).docx').",
+      "url": "https://drive.google.com/file/d/1s9U01tU6KqeJHhdMgLpJhO8MAc6GQtcS/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Setembro",
+      "data": "28/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida. Fonte: 'Cronograma Setembro HEAPA (1).docx', emissão 12/08/2026 (Visita 2/set — Carla).",
+      "url": "https://drive.google.com/file/d/1s9U01tU6KqeJHhdMgLpJhO8MAc6GQtcS/view"
+    },
+    {
+      "projeto": "HEAPA",
+      "mes": "Setembro",
+      "data": "29/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Ver observação de 28/09 — mesmo documento ('Cronograma Setembro HEAPA (1).docx').",
+      "url": "https://drive.google.com/file/d/1s9U01tU6KqeJHhdMgLpJhO8MAc6GQtcS/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Janeiro",
+      "data": "14/01",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1dW3KqJJ1m95Rl1J52pL7RxX5sovIw3TT/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Janeiro",
+      "data": "15/01",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "14:30",
+      "obs": "Fechamento sem horário de término, ponto único.",
+      "url": "https://drive.google.com/file/d/1dW3KqJJ1m95Rl1J52pL7RxX5sovIw3TT/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Janeiro",
+      "data": "27/01",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1qjPbHn5rbuQeTPiutvkWpNMm3p5K_wCG/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Janeiro",
+      "data": "28/01",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "14:30",
+      "obs": "Fechamento sem horário de término, ponto único.",
+      "url": "https://drive.google.com/file/d/1qjPbHn5rbuQeTPiutvkWpNMm3p5K_wCG/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Fevereiro",
+      "data": "10/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1cwsLSN5jwU6lDctbeETlxmM0GcPvSgj0/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Fevereiro",
+      "data": "11/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "14:30",
+      "obs": "Fechamento sem horário de término, ponto único.",
+      "url": "https://drive.google.com/file/d/1cwsLSN5jwU6lDctbeETlxmM0GcPvSgj0/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Fevereiro",
+      "data": "25/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1VWnAtFZ4b4Fczrhjn-hpsWyjvc-4g_OI/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Fevereiro",
+      "data": "26/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "14:30",
+      "obs": "Fechamento sem horário de término, ponto único.",
+      "url": "https://drive.google.com/file/d/1VWnAtFZ4b4Fczrhjn-hpsWyjvc-4g_OI/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Março",
+      "data": "10/03",
+      "status": "Realizada",
+      "ini": "17:00",
+      "fim": "17:00",
+      "obs": "Único compromisso do dia.",
+      "url": "https://drive.google.com/file/d/1dpiBL_1vL2v4_AZIdrLw2bdJMVYRJMvi/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Março",
+      "data": "11/03",
+      "status": "Realizada",
+      "ini": "09:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1dpiBL_1vL2v4_AZIdrLw2bdJMVYRJMvi/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Março",
+      "data": "12/03",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "14:30",
+      "obs": "Fechamento sem horário de término, ponto único.",
+      "url": "https://drive.google.com/file/d/1dpiBL_1vL2v4_AZIdrLw2bdJMVYRJMvi/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Março",
+      "data": "31/03",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/163CNIkGLeXIaoDnuhqTWR_sWCvUUZITc/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Março",
+      "data": "01/04",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "14:30",
+      "obs": "Fechamento sem horário de término, ponto único (visita cruza para abril).",
+      "url": "https://drive.google.com/file/d/163CNIkGLeXIaoDnuhqTWR_sWCvUUZITc/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Abril",
+      "data": "07/04",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "17:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1gwUxEGrkKlEe-fVY9TchUwBO7KQDa55d/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Abril",
+      "data": "08/04",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "14:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1gwUxEGrkKlEe-fVY9TchUwBO7KQDa55d/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Abril",
+      "data": "15/04",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/18ad5a95EWkm1PpnSNOmWhR1IP0ZtbZbu/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Abril",
+      "data": "16/04",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "14:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/18ad5a95EWkm1PpnSNOmWhR1IP0ZtbZbu/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Maio",
+      "data": "05/05",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1DYrEpmlEO5RkKMXUMn_41MRkD7Kwft6U/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Maio",
+      "data": "06/05",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "12:00",
+      "obs": "Fechamento sem horário de término, ponto único.",
+      "url": "https://drive.google.com/file/d/1DYrEpmlEO5RkKMXUMn_41MRkD7Kwft6U/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Maio",
+      "data": "26/05",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/13OqkzPzQnXsHh-KSRZKyVm0KMo6jLQnW/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Maio",
+      "data": "27/05",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "12:00",
+      "obs": "Fechamento sem horário de término, ponto único.",
+      "url": "https://drive.google.com/file/d/13OqkzPzQnXsHh-KSRZKyVm0KMo6jLQnW/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Junho",
+      "data": "09/06",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "21:00",
+      "obs": "Outlier — workshop noturno até 21h, confirmar na fonte.",
+      "url": "https://drive.google.com/file/d/12D8QgwOqVuHxmC2t4qNBmEzClaQdB8Lg/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Junho",
+      "data": "10/06",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "14:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/12D8QgwOqVuHxmC2t4qNBmEzClaQdB8Lg/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Junho",
+      "data": "16/06",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1QrDvSYJh2gtIGXReCNPLBhGPygKAq3Nu/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Junho",
+      "data": "17/06",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1QrDvSYJh2gtIGXReCNPLBhGPygKAq3Nu/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Junho",
+      "data": "18/06",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "12:00",
+      "obs": "Fechamento sem horário de término, ponto único.",
+      "url": "https://drive.google.com/file/d/1QrDvSYJh2gtIGXReCNPLBhGPygKAq3Nu/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Julho",
+      "data": "07/07",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1IwGiDVYpDvogKHretXuP6rUZOr2ivYec/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Julho",
+      "data": "08/07",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "12:00",
+      "obs": "Fechamento sem horário de término, ponto único.",
+      "url": "https://drive.google.com/file/d/1IwGiDVYpDvogKHretXuP6rUZOr2ivYec/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Julho",
+      "data": "28/07",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1ASiMUxhYiLDAscuLtdjJagDzbelNN48b/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Julho",
+      "data": "29/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "12:00",
+      "obs": "Fechamento sem horário de término, ponto único.",
+      "url": "https://drive.google.com/file/d/1ASiMUxhYiLDAscuLtdjJagDzbelNN48b/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Agosto",
+      "data": "11/08",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "18:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1ph4bHKpEZeDpnmIoBU9Czcj2JcJGSABu/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Agosto",
+      "data": "12/08",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "12:00",
+      "obs": "Fechamento sem horário de término, ponto único.",
+      "url": "https://drive.google.com/file/d/1ph4bHKpEZeDpnmIoBU9Czcj2JcJGSABu/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Agosto",
+      "data": "25/08",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:30",
+      "obs": "Agenda semanal detalhada emitida ('16. Agenda Visita HSR Ago.26.docx', criada e emitida em 21/08/2026). Tabela única (sem divisão Manhã/Tarde). Último item 'Safety Huddle - Dra. Sabrina' (15:30, sem horário de término explícito) — usado como Fim. Nota: cabeçalho do documento declara faixa genérica '8:30h às 17:00h', mas a tabela real termina às 15:30h — faixa de cabeçalho ignorada conforme regra. Corrigido de 'Planejada' para 'Realizada' em 27/08/2026: a visita já ocorreu — não houve alteração no documento-fonte que disparasse a correção automaticamente antes (checagem de calendário, Passo 7).",
+      "url": "https://drive.google.com/file/d/10sjNBSauPn7NEfgGhXvVbZzajopAfKpP/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Agosto",
+      "data": "26/08",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "14:00",
+      "obs": "Ver observação de 25/08 — mesmo documento. Último item 'Fechamento e ações propostas' (14:00, sem horário de término explícito) — usado como Fim. Corrigido de 'Planejada' para 'Realizada' em 27/08/2026: a visita já ocorreu — não houve alteração no documento-fonte que disparasse a correção automaticamente antes (checagem de calendário, Passo 7).",
+      "url": "https://drive.google.com/file/d/10sjNBSauPn7NEfgGhXvVbZzajopAfKpP/view"
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Setembro",
+      "data": "15/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Setembro",
+      "data": "16/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Setembro",
+      "data": "22/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "TEO",
+      "mes": "Setembro",
+      "data": "23/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Janeiro",
+      "data": "13/01",
+      "status": "Realizada",
+      "ini": "15:00",
+      "fim": "15:00",
+      "obs": "Ponto único — só uma atividade registrada nesse dia.",
+      "url": "https://drive.google.com/file/d/1H7N8EsrzRcBehA9x_MynCnvGVej7hfXv/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Janeiro",
+      "data": "14/01",
+      "status": "Realizada",
+      "ini": "07:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1H7N8EsrzRcBehA9x_MynCnvGVej7hfXv/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Janeiro",
+      "data": "15/01",
+      "status": "Realizada",
+      "ini": "07:00",
+      "fim": "10:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1H7N8EsrzRcBehA9x_MynCnvGVej7hfXv/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Janeiro",
+      "data": "19/01",
+      "status": "Realizada",
+      "ini": "15:00",
+      "fim": "18:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1QkMT6UO4NghHzL38PkQYov7cnXoN4F0S/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Janeiro",
+      "data": "20/01",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "18:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1QkMT6UO4NghHzL38PkQYov7cnXoN4F0S/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Janeiro",
+      "data": "21/01",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "08:00",
+      "obs": "Ponto único — só uma atividade registrada nesse dia.",
+      "url": "https://drive.google.com/file/d/1QkMT6UO4NghHzL38PkQYov7cnXoN4F0S/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Fevereiro",
+      "data": "02/02",
+      "status": "Realizada",
+      "ini": "15:00",
+      "fim": "18:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1liTV7aX6330RK5JkjmmJkzNRuzgDKuCo/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Fevereiro",
+      "data": "03/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1liTV7aX6330RK5JkjmmJkzNRuzgDKuCo/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Fevereiro",
+      "data": "04/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "08:00",
+      "obs": "Ponto único — só uma atividade registrada nesse dia.",
+      "url": "https://drive.google.com/file/d/1liTV7aX6330RK5JkjmmJkzNRuzgDKuCo/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Fevereiro",
+      "data": "24/02",
+      "status": "Realizada",
+      "ini": "14:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1iTmb3SygUizxPWVAx6jgFEuCCelbyc1j/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Fevereiro",
+      "data": "25/02",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1iTmb3SygUizxPWVAx6jgFEuCCelbyc1j/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Fevereiro",
+      "data": "26/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "09:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1iTmb3SygUizxPWVAx6jgFEuCCelbyc1j/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Março",
+      "data": "03/03",
+      "status": "Realizada",
+      "ini": "13:00",
+      "fim": "16:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/140mZ6Dje_9qd07B8dxHWuP5VkuyzUyY3/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Março",
+      "data": "04/03",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/140mZ6Dje_9qd07B8dxHWuP5VkuyzUyY3/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Março",
+      "data": "05/03",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "11:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/140mZ6Dje_9qd07B8dxHWuP5VkuyzUyY3/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Março",
+      "data": "23/03",
+      "status": "Realizada",
+      "ini": "11:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1-M1W27hc4o7FjfIyUky1JikXEtTlmXyL/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Março",
+      "data": "24/03",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1-M1W27hc4o7FjfIyUky1JikXEtTlmXyL/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Março",
+      "data": "25/03",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "11:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1-M1W27hc4o7FjfIyUky1JikXEtTlmXyL/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Abril",
+      "data": "06/04",
+      "status": "Realizada",
+      "ini": "14:30",
+      "fim": "19:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1XV0kX03hVS9iGyBx8-eKhcFiznGFRW8-/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Abril",
+      "data": "07/04",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "19:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1XV0kX03hVS9iGyBx8-eKhcFiznGFRW8-/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Abril",
+      "data": "08/04",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "11:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1XV0kX03hVS9iGyBx8-eKhcFiznGFRW8-/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Abril",
+      "data": "13/04",
+      "status": "Realizada",
+      "ini": "11:30",
+      "fim": "15:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1XliManguPBA-kxwFzMWRf7FCPcZQsTOz/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Abril",
+      "data": "14/04",
+      "status": "Realizada",
+      "ini": "07:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1XliManguPBA-kxwFzMWRf7FCPcZQsTOz/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Abril",
+      "data": "15/04",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "11:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1XliManguPBA-kxwFzMWRf7FCPcZQsTOz/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Maio",
+      "data": "11/05",
+      "status": "Realizada",
+      "ini": "11:30",
+      "fim": "16:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1hVaOZyI2iztV-Rd6ATMpNnSRzSARQ-Ua/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Maio",
+      "data": "12/05",
+      "status": "Realizada",
+      "ini": "07:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1hVaOZyI2iztV-Rd6ATMpNnSRzSARQ-Ua/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Maio",
+      "data": "13/05",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "11:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1hVaOZyI2iztV-Rd6ATMpNnSRzSARQ-Ua/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Maio",
+      "data": "25/05",
+      "status": "Realizada",
+      "ini": "11:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/145Lho30VZ2b7rkTlVUod-0hJXJfgAa3v/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Maio",
+      "data": "26/05",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "16:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/145Lho30VZ2b7rkTlVUod-0hJXJfgAa3v/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Maio",
+      "data": "27/05",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "11:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/145Lho30VZ2b7rkTlVUod-0hJXJfgAa3v/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Junho",
+      "data": "09/06",
+      "status": "Realizada",
+      "ini": "11:30",
+      "fim": "16:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1pJx43-ygXbWow2Wn693v0dcvaXtfeuZ5/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Junho",
+      "data": "10/06",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1pJx43-ygXbWow2Wn693v0dcvaXtfeuZ5/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Junho",
+      "data": "11/06",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "11:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1pJx43-ygXbWow2Wn693v0dcvaXtfeuZ5/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Junho",
+      "data": "23/06",
+      "status": "Realizada",
+      "ini": "11:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1rz0FpvQtjxkAJJl2d89p58pW_Kqf8Hp_/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Junho",
+      "data": "24/06",
+      "status": "Realizada",
+      "ini": "07:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1rz0FpvQtjxkAJJl2d89p58pW_Kqf8Hp_/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Junho",
+      "data": "25/06",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "12:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1rz0FpvQtjxkAJJl2d89p58pW_Kqf8Hp_/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Julho",
+      "data": "06/07",
+      "status": "Realizada",
+      "ini": "11:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1SxCv_9bk4nIt4Lyh_k8z_2JRFFHEcafG/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Julho",
+      "data": "07/07",
+      "status": "Realizada",
+      "ini": "07:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1SxCv_9bk4nIt4Lyh_k8z_2JRFFHEcafG/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Julho",
+      "data": "08/07",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "12:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1SxCv_9bk4nIt4Lyh_k8z_2JRFFHEcafG/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Julho",
+      "data": "21/07",
+      "status": "Realizada",
+      "ini": "11:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1xq16j5GOh9nP9iDk26W99n4paUYDNCQe/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Julho",
+      "data": "22/07",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "17:00",
+      "obs": "Corrigido manualmente em auditoria: horário de fim real é 17:00 (não 12:00), conforme última atividade da tabela do documento-fonte ('Auditoria interna de confiabilidade dos leitos NIR', 16:00–17:00).",
+      "url": "https://drive.google.com/file/d/1xq16j5GOh9nP9iDk26W99n4paUYDNCQe/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Julho",
+      "data": "23/07",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "12:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1xq16j5GOh9nP9iDk26W99n4paUYDNCQe/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Agosto",
+      "data": "12/08",
+      "status": "Realizada",
+      "ini": "11:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1SeKe9W22y_n2jGecJvFjUHg3uxqArWbM/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Agosto",
+      "data": "13/08",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "16:00",
+      "obs": "Corrigido de 'Planejada' para 'Realizada' em 15/08/2026: planilha 'Controle de Projeto São Lucas - MH + NIR' (aba Registros do Projeto) confirma '13/08/2026 | Camila | Visita enfermeiro | Concluído'. Horários mantidos conforme tabela do documento-fonte 'Agenda 12 a 14/08 docx' (Manhã 07:30–12:00 + Tarde 13:30–16:00).",
+      "url": "https://drive.google.com/file/d/1SeKe9W22y_n2jGecJvFjUHg3uxqArWbM/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Agosto",
+      "data": "14/08",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "12:00",
+      "obs": "Corrigido de 'Planejada' para 'Realizada' em 15/08/2026: planilha 'Controle de Projeto São Lucas - MH + NIR' (aba Registros do Projeto) confirma múltiplos registros em 14/08/2026 (Visita enfermeiro, Tutoria presencial x2 e Reunião Operacional, todos 'Concluído'). Horários mantidos conforme tabela do documento-fonte (única seção Manhã, 07:30–12:00; documento não apresenta seção Tarde para este dia).",
+      "url": "https://drive.google.com/file/d/1SeKe9W22y_n2jGecJvFjUHg3uxqArWbM/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Agosto",
+      "data": "31/08",
+      "status": "Planejada",
+      "ini": "11:30",
+      "fim": "17:00",
+      "obs": "Agenda semanal detalhada emitida ('Agenda 30/08 a 02/09 docx', emissão 25/08/2026, carregada no Drive 25-26/08/2026). Dia [31/08/2026] Segunda-feira, tabela única Manhã/Tarde: início = 11:30 (Supervisão in loco de rotinas assistenciais); fim = 17:00 (Relatório de Setup — reunião com TI). Substitui a linha placeholder anterior (só cronograma mensal). Visita ainda não ocorreu (data futura em relação a hoje, 27/08/2026).",
+      "url": "https://drive.google.com/file/d/1perpyivH8qXGiKblErCDtQVC2G-cWI8C/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Setembro",
+      "data": "01/09",
+      "status": "Planejada",
+      "ini": "07:30",
+      "fim": "19:30",
+      "obs": "Ver observação de 31/08 — mesmo documento. Dia [01/09/2026] Terça-feira: tabela Manhã (07:30–12:00) + tabela Tarde separada mais adiante (14:00–19:30), mesmo dia. Início = 07:30 (Huddle Institucional); fim = 19:30 (última linha da Tarde, 'Workshop - Gestão de acesso - Huddle na prática', 18:30–19:30). Nota: essa mesma atividade aparece duas vezes na tabela Tarde (15:30–16:30 e 18:30–19:30, mesma descrição/participantes/local) — pode ser duas sessões reais ou duplicação no documento-fonte; mantido o último horário conforme regra de 'último horário da última linha', sinalizado aqui para validação humana. Substitui a linha placeholder anterior. Visita ainda não ocorreu (data futura em relação a hoje, 27/08/2026).",
+      "url": "https://drive.google.com/file/d/1perpyivH8qXGiKblErCDtQVC2G-cWI8C/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Setembro",
+      "data": "02/09",
+      "status": "Planejada",
+      "ini": "07:00",
+      "fim": "12:00",
+      "obs": "Ver observação de 31/08 — mesmo documento. Dia [02/09/2026] Quarta-feira, apenas seção Manhã: início = 07:00 (Reunião diretiva — apresentação de andamento e resultados); fim = 12:00 (Tutoria Equipe MH — transição de cuidados intra-hospitalar). Substitui a linha placeholder anterior. Visita ainda não ocorreu (data futura em relação a hoje, 27/08/2026).",
+      "url": "https://drive.google.com/file/d/1perpyivH8qXGiKblErCDtQVC2G-cWI8C/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Janeiro",
+      "data": "15/01",
+      "status": "Realizada",
+      "ini": "09:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1uUFxET7TpF2roNFcZZ38qETtdBafUfuR/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Janeiro",
+      "data": "21/01",
+      "status": "Realizada",
+      "ini": "10:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1uWpVTNO7ZhNgfhiwmGZFcaCgtS1RWdr2/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Janeiro",
+      "data": "22/01",
+      "status": "Realizada",
+      "ini": "09:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1uWpVTNO7ZhNgfhiwmGZFcaCgtS1RWdr2/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Fevereiro",
+      "data": "03/02",
+      "status": "Realizada",
+      "ini": "10:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1TdW8mfgWg51n3p3PUb3PCv43Wwv3C1NY/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Fevereiro",
+      "data": "04/02",
+      "status": "Realizada",
+      "ini": "10:00",
+      "fim": "14:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1TdW8mfgWg51n3p3PUb3PCv43Wwv3C1NY/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Fevereiro",
+      "data": "26/02",
+      "status": "Realizada",
+      "ini": "09:00",
+      "fim": "14:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1g76wJe_71vufEn54TNa65cgE4eeofDK9/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Março",
+      "data": "12/03",
+      "status": "Realizada",
+      "ini": "09:15",
+      "fim": "14:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1d1byYVaKICJMSfmdpDecbqqETJ4qCpL6/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Março",
+      "data": "18/03",
+      "status": "Realizada",
+      "ini": "11:00",
+      "fim": "15:00",
+      "obs": "Usada a versão ajustada (AJUSTADO) do documento, mais recente.",
+      "url": "https://drive.google.com/file/d/1SeGleQfM02fLjXEUbkaGQXW0bjJjxKU5/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Março",
+      "data": "19/03",
+      "status": "Realizada",
+      "ini": "09:00",
+      "fim": "15:00",
+      "obs": "Usada a versão ajustada (AJUSTADO) do documento, mais recente.",
+      "url": "https://drive.google.com/file/d/1SeGleQfM02fLjXEUbkaGQXW0bjJjxKU5/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Abril",
+      "data": "16/04",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "09:30",
+      "obs": "Documento incompleto — só um item com horário; demais atividades do dia não têm horário registrado.",
+      "url": "https://drive.google.com/file/d/1m1m5Bc7__52M87kDeatvS9wWpfR0Tb5j/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Julho",
+      "data": "08/07",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "14:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1RtXzyj3HJtxnLr1jLFNgTpL8vmpej3bI/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Julho",
+      "data": "09/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1RtXzyj3HJtxnLr1jLFNgTpL8vmpej3bI/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Julho",
+      "data": "16/07",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1eKXtlN2nARYqkLXTx83hhv6BgKxR9GqO/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Julho",
+      "data": "23/07",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "Corrigido de 'Pendente' para 'Realizada': documento 'Agenda semanal 23. 07.docx' foi ajustado no Drive em 18/08/2026 — o cabeçalho 'Período' agora diz 23/07/2026 (antes divergia, dizia 21/07/2026), consistente com a tabela de atividades ('Dia [23/07/2026]'). Horários extraídos das tabelas Manhã (08:30–12:00) e Tarde (13:00–16:00) combinadas.",
+      "url": "https://drive.google.com/file/d/1vce6nDWVX97kwXtX05SNFCYgFiLe_aic/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Agosto",
+      "data": "06/08",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1VYbmKYiRZSM_mfOnYuwgUkVaHBAwQGpV/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Agosto",
+      "data": "17/08",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "Corrigido de 'Planejada' para 'Realizada' (checagem de calendário, Passo 7): a visita já ocorreu — 17/08/2026 é anterior a hoje (18/08/2026) — e o documento-fonte nunca foi revisitado após a data passar. Horários mantidos conforme tabela real do documento ('Agenda semanal 17/08.docx').",
+      "url": "https://drive.google.com/file/d/1a-PGaI7dxMdnbklZQEmcyU1UPWKEMj58/view"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Agosto",
+      "data": "25/08",
+      "status": "Realizada",
+      "ini": null,
+      "fim": null,
+      "obs": "Sem Agenda Semanal oficial emitida para este período (não localizada em nenhuma pasta do projeto — gap de processo, quebra do padrão de emissão semanal após 17/08). Confirmado por planilha de controle 'HBB_Método MH + UTI' (aba Registros do Projeto, modificada 28/08/2026): 'Visita enfermeiro' — Viviane, Carla A. — status 'Concluído'. Corroborado por vídeos brutos em Comunicação & Marketing/Mídias UTI (20260825_101828.mp4, 20260825_132007/132025/132311/132344.mp4).",
+      "url": "https://docs.google.com/spreadsheets/d/1X0ggPde9uEt-Eir5ZsavdaGnNKh0Zd9JPqpfXi6wJ6E/edit"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Agosto",
+      "data": "26/08",
+      "status": "Realizada",
+      "ini": null,
+      "fim": null,
+      "obs": "Ver observação de 25/08 — mesma planilha de controle 'HBB_Método MH + UTI': 'Visita enfermeiro' — Carla A., Viviane — status 'Concluído'. Sem Agenda Semanal oficial localizada.",
+      "url": "https://docs.google.com/spreadsheets/d/1X0ggPde9uEt-Eir5ZsavdaGnNKh0Zd9JPqpfXi6wJ6E/edit"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Agosto",
+      "data": "27/08",
+      "status": "Realizada",
+      "ini": null,
+      "fim": null,
+      "obs": "Ver observação de 25/08 — mesma planilha de controle: dois registros 'Concluído' ('Visita enfermeiro' — Carla A.; 'Visita médico' — Gabriel). Sem Agenda Semanal oficial localizada.",
+      "url": "https://docs.google.com/spreadsheets/d/1X0ggPde9uEt-Eir5ZsavdaGnNKh0Zd9JPqpfXi6wJ6E/edit"
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Setembro",
+      "data": "09/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Setembro",
+      "data": "10/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Setembro",
+      "data": "14/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "HBB",
+      "mes": "Setembro",
+      "data": "24/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "SL",
+      "mes": "Janeiro",
+      "data": "13/01",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/12eX2x12p0IqjhdMviSIp_Qbw-1u2zNg_/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Janeiro",
+      "data": "14/01",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/12eX2x12p0IqjhdMviSIp_Qbw-1u2zNg_/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Janeiro",
+      "data": "27/01",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1P8f9uc7ADoV8d-sFZpS4Vqnns4YhWg9r/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Janeiro",
+      "data": "28/01",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1P8f9uc7ADoV8d-sFZpS4Vqnns4YhWg9r/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Fevereiro",
+      "data": "10/02",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1WvpWSsVtEOFuY1R6LJC7BB0-x2j4ifYv/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Fevereiro",
+      "data": "11/02",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1WvpWSsVtEOFuY1R6LJC7BB0-x2j4ifYv/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Fevereiro",
+      "data": "24/02",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1wWag1hvDi9gvgloinWJkzflWwbs1kH2a/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Fevereiro",
+      "data": "25/02",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1wWag1hvDi9gvgloinWJkzflWwbs1kH2a/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Março",
+      "data": "10/03",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1MSztn4HmxYtmYUt4CpZqP-heV7zlcu_K/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Março",
+      "data": "11/03",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1MSztn4HmxYtmYUt4CpZqP-heV7zlcu_K/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Março",
+      "data": "31/03",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1GdcwgktuM_J8QH-9wbTKpjkNA8ggk6_2/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Março",
+      "data": "01/04",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "15:00",
+      "obs": "Visita cruza para abril.",
+      "url": "https://drive.google.com/file/d/1GdcwgktuM_J8QH-9wbTKpjkNA8ggk6_2/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Abril",
+      "data": "14/04",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "21:00",
+      "obs": "Outlier — aula de residência à noite (20h-21h), confirmar na fonte.",
+      "url": "https://drive.google.com/file/d/1FmCP0GgLsBLHXbefbRwYuv42VJFJJjU_/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Abril",
+      "data": "15/04",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1FmCP0GgLsBLHXbefbRwYuv42VJFJJjU_/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Abril",
+      "data": "23/04",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "16:00",
+      "obs": "Conteúdo do arquivo 'Cópia de 14 e 15/04' correspondia na verdade a esta visita de 23-24/04.",
+      "url": "https://drive.google.com/file/d/1GXsg5flyaK7OowS2IIP4pUQrwqCLHRku/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Abril",
+      "data": "24/04",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1GXsg5flyaK7OowS2IIP4pUQrwqCLHRku/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Maio",
+      "data": "12/05",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1Rlu4U1-e6wtp9rH7kyCQBageSRbUJ_Lv/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Maio",
+      "data": "13/05",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1Rlu4U1-e6wtp9rH7kyCQBageSRbUJ_Lv/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Maio",
+      "data": "27/05",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1f-qhWb3b5wsil7FMKwz47si_dVerv4-a/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Maio",
+      "data": "28/05",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1f-qhWb3b5wsil7FMKwz47si_dVerv4-a/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Junho",
+      "data": "09/06",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1Aay5iic8XKJL9OSnie9d8N2SOAo0IBdk/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Junho",
+      "data": "10/06",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1Aay5iic8XKJL9OSnie9d8N2SOAo0IBdk/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Junho",
+      "data": "17/06",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1KlDNCuP7uOAjfCkFs9G1_ZPdjEn2HVgg/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Junho",
+      "data": "18/06",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "14:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1KlDNCuP7uOAjfCkFs9G1_ZPdjEn2HVgg/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Junho",
+      "data": "23/06",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/16Knuh9s7PFKBpIrILwWeWq6ESjkcu2wi/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Junho",
+      "data": "24/06",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "14:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/16Knuh9s7PFKBpIrILwWeWq6ESjkcu2wi/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Julho",
+      "data": "07/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1XHVMgD2rdg9VK-Ccl4lKqs8AdQVAxd-p/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Julho",
+      "data": "08/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1XHVMgD2rdg9VK-Ccl4lKqs8AdQVAxd-p/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Julho",
+      "data": "22/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1VOW9wK_9ho8J9zYy6nSQhV1dqCZOsnD5/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Julho",
+      "data": "23/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1VOW9wK_9ho8J9zYy6nSQhV1dqCZOsnD5/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Agosto",
+      "data": "05/08",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/197-W_sklD_bktc8hpO7qVR7_2Srvd8XH/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Agosto",
+      "data": "06/08",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/197-W_sklD_bktc8hpO7qVR7_2Srvd8XH/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Agosto",
+      "data": "18/08",
+      "status": "Realizada",
+      "ini": "09:00",
+      "fim": "16:00",
+      "obs": "Corrigido de 'Planejada' para 'Realizada' (checagem de calendário, Passo 7): a visita já ocorreu — 18/08/2026 é anterior a hoje (19/08/2026) — sem evidência de cancelamento/suspensão nos documentos do projeto. Ainda não foi localizado relatório formal de execução no Drive, mas a data passada e a ausência de qualquer sinal de cancelamento justificam a correção. Horários mantidos conforme tabela real do documento ('17. Agenda Visita CHSL Ago.26.docx').",
+      "url": "https://drive.google.com/file/d/1ujVZ49pBT2gE5nR4B3OxJCkY6j8MbdOt/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Agosto",
+      "data": "19/08",
+      "status": "Realizada",
+      "ini": "09:00",
+      "fim": "16:00",
+      "obs": "Corrigido de 'Realizada' para 'Planejada' — mesma origem do dia 18/08 (ver observação). Documento afirma tratar-se de agenda prevista, ainda não realizada. Corrigido de volta para 'Realizada' em 21/08/2026: a visita já ocorreu — não houve alteração no documento-fonte que disparasse a correção automaticamente antes (checagem de calendário, Passo 7). Nenhum relatório formal de execução foi localizado no Drive para confirmar, mas a data passada e a ausência de qualquer sinal de cancelamento justificam a correção.",
+      "url": "https://drive.google.com/file/d/1ujVZ49pBT2gE5nR4B3OxJCkY6j8MbdOt/view"
+    },
+    {
+      "projeto": "SL",
+      "mes": "Setembro",
+      "data": "09/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "SL",
+      "mes": "Setembro",
+      "data": "10/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "SL",
+      "mes": "Setembro",
+      "data": "22/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "SL",
+      "mes": "Setembro",
+      "data": "23/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Janeiro",
+      "data": "06/01",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/10Thk8tLuZrhL_mYamp7z3B_iF8vGq1S_/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Janeiro",
+      "data": "07/01",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/10Thk8tLuZrhL_mYamp7z3B_iF8vGq1S_/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Janeiro",
+      "data": "22/01",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1ULO1nRh8wkWNj5LpNw_l_iCD4GUwQx30/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Janeiro",
+      "data": "23/01",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1ULO1nRh8wkWNj5LpNw_l_iCD4GUwQx30/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Fevereiro",
+      "data": "10/02",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1-DVYzvtkiQPW8JXH2mXYGkRp1HzuLMET/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Fevereiro",
+      "data": "11/02",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1-DVYzvtkiQPW8JXH2mXYGkRp1HzuLMET/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Fevereiro",
+      "data": "18/02",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1saJlKJbamtc6MSmcOb1wbDCZS2VOVmz5/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Fevereiro",
+      "data": "19/02",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1saJlKJbamtc6MSmcOb1wbDCZS2VOVmz5/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Março",
+      "data": "10/03",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1Nuod41nL43Jml3JJbQkltneyboJn1GEx/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Março",
+      "data": "11/03",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1Nuod41nL43Jml3JJbQkltneyboJn1GEx/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Março",
+      "data": "24/03",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1SntrcYLJeJAqmlRfbgxSoxN0QlZ-xmFb/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Março",
+      "data": "25/03",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1SntrcYLJeJAqmlRfbgxSoxN0QlZ-xmFb/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Abril",
+      "data": "16/04",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1Rluv9sSvnfJcnrZ-ffZEy5WiTFZ9xf1F/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Abril",
+      "data": "17/04",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1Rluv9sSvnfJcnrZ-ffZEy5WiTFZ9xf1F/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Abril",
+      "data": "22/04",
+      "status": "Realizada",
+      "ini": "09:00",
+      "fim": "16:00",
+      "obs": "Cronograma indicava visita 2 em 22-23/04, mas só há um documento (22/04) detalhado.",
+      "url": "https://drive.google.com/file/d/1KrTrj_0zLlBNYSy8VuEcI8m2XgMp42aR/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Maio",
+      "data": "07/05",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/12I2pE4daeE_TS1JRngKOj0MtLXJXSeUM/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Maio",
+      "data": "12/05",
+      "status": "Realizada",
+      "ini": "09:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1xduoVI3g4JIPtrAZa3grp7g0Q1mL81W7/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Maio",
+      "data": "27/05",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1DojeUjwxnNrFNgTM8KNEVwp6T8-xCYf9/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Junho",
+      "data": "10/06",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1mVjFKuI4glO3MqeSmPh7d6OD0zpWOCgo/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Junho",
+      "data": "11/06",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1mVjFKuI4glO3MqeSmPh7d6OD0zpWOCgo/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Junho",
+      "data": "24/06",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1uX1IKHyvu4Eg2U9fa-xbxKf_CICrG-jc/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Julho",
+      "data": "07/07",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/13iOA1jhtorehSQgXLyB31bNMTr8b5hC4/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Julho",
+      "data": "08/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/13iOA1jhtorehSQgXLyB31bNMTr8b5hC4/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Julho",
+      "data": "22/07",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1xJ6Wj938pdCunrylUcq-cisLImXj5pV5/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Julho",
+      "data": "23/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1xJ6Wj938pdCunrylUcq-cisLImXj5pV5/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Agosto",
+      "data": "05/08",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1DkLO7r0NRyJShFBm9T30kf7X1tAjbeG8/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Agosto",
+      "data": "06/08",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1DkLO7r0NRyJShFBm9T30kf7X1tAjbeG8/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Agosto",
+      "data": "18/08",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Pendência resolvida (não era mais erro de cópia): o documento 'Agenda 18 e 19/08/26.docx' foi atualizado no Drive em 17/08/2026 e deixou de ter conteúdo duplicado de 05-06/08, mas cobre só o dia 19/08 (agenda da consultora Sofia Matoso). Para 18/08, o 'Cronograma Agosto/26 São Jose.docx' confirma visita da consultora Karla Lemes nesse dia, porém ainda sem agenda semanal detalhada com horários específicos — só cronograma mensal.",
+      "url": null
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Agosto",
+      "data": "19/08",
+      "status": "Realizada",
+      "ini": "09:00",
+      "fim": "16:00",
+      "obs": "Pendência resolvida: documento 'Agenda 18 e 19/08/26.docx' (mesmo ID de arquivo; a versão antiga tinha conteúdo idêntico ao de 05-06/08, um erro de cópia) foi atualizado no Drive em 17/08/2026 e agora traz tabela real e específica para 19/08/2026, com a consultora Sofia Matoso. Horário de fim (16:00) é o início do último item da tabela ('Revisão de pendências'), sem horário de término explícito na fonte. Corrigido de 'Planejada' para 'Realizada' em 21/08/2026: a visita já ocorreu — não houve alteração no documento-fonte que disparasse a correção automaticamente antes (checagem de calendário, Passo 7).",
+      "url": "https://drive.google.com/file/d/1KgLMxYVEKyMBCdM6sgLkiSsDG8J2Inkc/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Março",
+      "data": "18/03",
+      "status": "Realizada",
+      "ini": "10:15",
+      "fim": "19:15",
+      "obs": "Documento carregado tardiamente no Drive: 'Agenda semanal AJ março.pdf' (assinado 'Porto Alegre, 13 de março de 2026', mas createdTime no Drive = 12/08/2026) — pego pelo critério (b), conteúdo antigo carregado depois. Texto do documento diz 'agendas previstas', sem confirmação explícita de execução, mas mantido como Realizada por consistência com o padrão redacional dos demais meses (abril–julho) já registrados como Realizada com o mesmo tipo de texto.",
+      "url": "https://drive.google.com/file/d/1KaFiXzknllHoDbqEuwY3GKKzVfrh_sbq/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Março",
+      "data": "19/03",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "Ver observação de 18/03 — mesmo documento 'Agenda semanal AJ março.pdf' carregado tardiamente no Drive.",
+      "url": "https://drive.google.com/file/d/1KaFiXzknllHoDbqEuwY3GKKzVfrh_sbq/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Abril",
+      "data": "07/04",
+      "status": "Realizada",
+      "ini": "11:15",
+      "fim": "17:10",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1YNvLssz9AcLF_iAQnNrqAQO4l5yzev7S/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Abril",
+      "data": "08/04",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1YNvLssz9AcLF_iAQnNrqAQO4l5yzev7S/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Abril",
+      "data": "29/04",
+      "status": "Realizada",
+      "ini": "11:15",
+      "fim": "17:10",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1kFqlBWPNxG5_vhYps4b3fSFvbBDD2Aoj/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Abril",
+      "data": "30/04",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1kFqlBWPNxG5_vhYps4b3fSFvbBDD2Aoj/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Maio",
+      "data": "05/05",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1YLNyQyUm8jVwbBzS4VapyD1ToQym-b5L/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Maio",
+      "data": "06/05",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "15:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1YLNyQyUm8jVwbBzS4VapyD1ToQym-b5L/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Maio",
+      "data": "20/05",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1UK1L8zwoY2FWvevdW5LaSKmQO8xPqNRJ/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Maio",
+      "data": "21/05",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1UK1L8zwoY2FWvevdW5LaSKmQO8xPqNRJ/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Junho",
+      "data": "10/06",
+      "status": "Realizada",
+      "ini": "08:15",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1WYK5uREx7sBwsR-7uOVbaAcZRB55UXNJ/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Junho",
+      "data": "11/06",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1WYK5uREx7sBwsR-7uOVbaAcZRB55UXNJ/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Julho",
+      "data": "01/07",
+      "status": "Realizada",
+      "ini": "07:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1HS25RTn_L3YIIvC-YcfeyncdtreyFTOH/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Julho",
+      "data": "02/07",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1HS25RTn_L3YIIvC-YcfeyncdtreyFTOH/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Julho",
+      "data": "15/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1jNkUGsrizFSlUTkSRTLGuMgli6pPqGUb/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Julho",
+      "data": "16/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "15:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1jNkUGsrizFSlUTkSRTLGuMgli6pPqGUb/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Julho",
+      "data": "29/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/13nwY5ia69KDbf44tyOxbKKQ0fsFw-MoS/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Julho",
+      "data": "30/07",
+      "status": "Realizada",
+      "ini": "10:00",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/13nwY5ia69KDbf44tyOxbKKQ0fsFw-MoS/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Agosto",
+      "data": "19/08",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "Agenda semanal detalhada emitida ('Agenda semanal AJ 19 A 20-08 (2) (1).docx', emissão 12/08/2026, carregada no Drive 12/08/2026 à noite — após SNAPSHOT_DATE). Corrigido de 'Planejada' para 'Realizada' em 21/08/2026: a visita já ocorreu — não houve alteração no documento-fonte que disparasse a correção automaticamente antes (checagem de calendário, Passo 7).",
+      "url": "https://drive.google.com/file/d/1EHh9P8JPgvs4Dql5LxVb4UgfTgHEZIhb/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Agosto",
+      "data": "20/08",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "Ver observação de 19/08 — mesmo documento. Corrigido de 'Planejada' para 'Realizada' em 21/08/2026: a visita já ocorreu — não houve alteração no documento-fonte que disparasse a correção automaticamente antes (checagem de calendário, Passo 7).",
+      "url": "https://drive.google.com/file/d/1EHh9P8JPgvs4Dql5LxVb4UgfTgHEZIhb/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Agosto",
+      "data": "26/08",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "Agenda semanal detalhada emitida ('Agenda semanal AJ 26 A 27-08 (2) (1).docx', emissão declarada 12/08/2026, mas o arquivo só foi carregado/modificado no Drive em 20-21/08/2026 — padrão de upload tardio já visto em outros documentos deste projeto). Manhã+Tarde combinadas (4 blocos cada). Corrigido de 'Planejada' para 'Realizada' em 27/08/2026: a visita já ocorreu — não houve alteração no documento-fonte que disparasse a correção automaticamente antes (checagem de calendário, Passo 7). Documento foi tocado novamente em 25/08/2026 (releitura por critério b) mas o conteúdo permaneceu idêntico.",
+      "url": "https://drive.google.com/file/d/1AHnSvwfQ7Yl6d4rU-dBnUXJ5kVZxJJmK/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Agosto",
+      "data": "27/08",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "Ver observação de 26/08 — mesmo documento. Último item 'Fechamento da visita com equipe/owner' (15:00–16:00). Corrigido de 'Planejada' para 'Realizada' em 30/08/2026 (checagem de calendário, Passo 7): a visita já ocorreu — 27/08/2026 é anterior a hoje (30/08/2026); nenhum sinal de cancelamento encontrado (atas e documento-fonte revisados).",
+      "url": "https://drive.google.com/file/d/1AHnSvwfQ7Yl6d4rU-dBnUXJ5kVZxJJmK/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Setembro",
+      "data": "16/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Setembro",
+      "data": "17/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Setembro",
+      "data": "28/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Setembro",
+      "data": "29/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Janeiro",
+      "data": "08/01",
+      "status": "Realizada",
+      "ini": "09:00",
+      "fim": "17:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1nhIqz8ZEPy4ms_pxv_G5beLnlLm0dpAo/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Janeiro",
+      "data": "29/01",
+      "status": "Realizada",
+      "ini": "09:00",
+      "fim": "17:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1IOAGjgOc5BTXZARUPBHYNbgG25eYSmV5/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Fevereiro",
+      "data": "05/02",
+      "status": "Realizada",
+      "ini": "09:30",
+      "fim": "17:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1lnuhWzC4gXV_uE3Q8sIFTTjvu3b3znh7/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Fevereiro",
+      "data": "19/02",
+      "status": "Realizada",
+      "ini": "09:30",
+      "fim": "17:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/17o8QK9x8yQK9RvK8e3FjUIhhggmG6QBy/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Fevereiro",
+      "data": "26/02",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1LbIvlynxcEi7YlV5epsUFxdgbS3_yM8Q/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Março",
+      "data": "05/03",
+      "status": "Realizada",
+      "ini": "09:30",
+      "fim": "17:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1lPZh9Z6ilqnSnBeJxtW3cLyypNaevEQO/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Março",
+      "data": "18/03",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1ryCYQJZoyWTJ25M3BzoTqoYEuohrpBle/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Março",
+      "data": "26/03",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/17hyJJ044gziY2OWjfRR9J40StM9jRygC/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Abril",
+      "data": "09/04",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1BZ7zkw25AE9Rn8X2KC14tQmXbqfAlyxF/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Abril",
+      "data": "23/04",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1ww2YPIx1IP_MEFQoEZStWfi6EogLAWsg/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Maio",
+      "data": "14/05",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/18md5P-7dRqSNYDfEW0KZ5bwjZ6wRGXlo/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Maio",
+      "data": "28/05",
+      "status": "Realizada",
+      "ini": "09:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1cjnQpytvEuQ_7wOxgvHYXoBQmt1rZOJn/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Junho",
+      "data": "11/06",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1TbWwVi3MWvS94onLZrCMcSTeG7-634lk/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Junho",
+      "data": "25/06",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/11y7giOlyVc4UQYu41aAPwHkaH-RZleGl/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Julho",
+      "data": "16/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1kUfU8cblMaVYN2lafyA9LUjcEEchWm1M/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Julho",
+      "data": "30/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/12xwUStRJse5lJhSPZUtgefUOUeiCHTzY/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Agosto",
+      "data": "11/08",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1zq3E5sIQvzbhtfYOpddBzfZeijsGfJtu/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Agosto",
+      "data": "20/08",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "Agenda semanal detalhada emitida ('18. Agenda Visita SCBH Ago.26.docx', emissão 17/08/2026). Corrigido de 'Planejada' para 'Realizada' em 21/08/2026: a visita já ocorreu — não houve alteração no documento-fonte que disparasse a correção automaticamente antes (checagem de calendário, Passo 7). Evidência indireta de execução: apresentação interna 'SCBH - Reunião Direção 20.08.pptx' foi editada no próprio dia 20/08/2026, após a data da visita.",
+      "url": "https://drive.google.com/file/d/1xHd4usttUq-31xw4VpLbKN6DQHgk1akn/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Setembro",
+      "data": "03/09",
+      "status": "Planejada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "Agenda semanal detalhada emitida em 28/08/2026 ('19. Agenda Visita SCBH Set.26.docx', criado 28/08/2026 13:39). Início = 08:30 (Acompanhamento e Supervisão da operação in loco); fim = 17:00 (Revisão de pendências e próximos passos). Cabeçalho ('8:30h às 17:00h') consistente com a tabela. Visita ainda futura em relação a hoje (30/08/2026) — status permanece Planejada.",
+      "url": "https://drive.google.com/file/d/1KQSVg1MVYvG40X_gfdDh-tkhzx973kyN/view"
+    },
+    {
+      "projeto": "SCBH",
+      "mes": "Setembro",
+      "data": "23/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Janeiro",
+      "data": "08/01",
+      "status": "Realizada",
+      "ini": "09:00",
+      "fim": "14:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1hpMHOhK4-9rJYgztSnisP1AZzPc5YN5J/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Janeiro",
+      "data": "29/01",
+      "status": "Realizada",
+      "ini": "09:30",
+      "fim": "14:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1WFBVu684GxA-sxTJo6CcyMKSjMo50OqQ/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Fevereiro",
+      "data": "05/02",
+      "status": "Realizada",
+      "ini": "09:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1phqlO5dAokHN9NWbLKjqILenf9BcJ4vg/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Fevereiro",
+      "data": "19/02",
+      "status": "Realizada",
+      "ini": "09:00",
+      "fim": "14:30",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1EljPUAEKmcHJFvJN5yjNtIwJapVP2fe1/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Março",
+      "data": "05/03",
+      "status": "Realizada",
+      "ini": "09:15",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1TByM1I1Va5HdGzalopNuX2HRfBzE7M1M/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Março",
+      "data": "26/03",
+      "status": "Realizada",
+      "ini": "09:15",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/10ljLkWmGqb3IMQdq9Jv7F8w5DMhlB2rY/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Abril",
+      "data": "09/04",
+      "status": "Realizada",
+      "ini": "07:00",
+      "fim": "15:00",
+      "obs": "Horário de início considera a saída de Porto Alegre listada na tabela.",
+      "url": "https://drive.google.com/file/d/1Unb7UtzLGYk4xUYM7R5BaNztj2p6Iryy/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Abril",
+      "data": "27/04",
+      "status": "Realizada",
+      "ini": "06:30",
+      "fim": "15:30",
+      "obs": "Horário de início considera a saída de Porto Alegre listada na tabela.",
+      "url": "https://drive.google.com/file/d/1qefH5YbWrSCyHvi9p7mOqx6W6vIc4Lhg/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Maio",
+      "data": "12/05",
+      "status": "Realizada",
+      "ini": "06:30",
+      "fim": "17:00",
+      "obs": "Horário de início considera a saída de Porto Alegre listada na tabela.",
+      "url": "https://drive.google.com/file/d/1Z0ozqpsgk44uJ0Q2y1KgRduO2wiMBace/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Maio",
+      "data": "28/05",
+      "status": "Realizada",
+      "ini": "06:00",
+      "fim": "16:00",
+      "obs": "Horário de início considera a saída de Porto Alegre listada na tabela.",
+      "url": "https://drive.google.com/file/d/13W5qmq-EcP7bNlT9bF3YD53UUic-Gqdu/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Junho",
+      "data": "18/06",
+      "status": "Realizada",
+      "ini": "06:30",
+      "fim": "16:00",
+      "obs": "Horário de início considera a saída de Porto Alegre listada na tabela.",
+      "url": "https://drive.google.com/file/d/1RnoR_VC14ggFPn2VU9g2bhVptJbPZL1-/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Junho",
+      "data": "24/06",
+      "status": "Realizada",
+      "ini": "06:30",
+      "fim": "16:00",
+      "obs": "Horário de início considera a saída de Porto Alegre listada na tabela.",
+      "url": "https://drive.google.com/file/d/1FeQvWV5XFJnbYM47ya0vgMKOwjY5nuaJ/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Julho",
+      "data": "07/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1V1LQz3s9j2bhsN6Z6nFalkemD8H8zRcZ/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Julho",
+      "data": "30/07",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "20:30",
+      "obs": "Outlier — apresentação externa para corpo clínico à noite (19h30-20h30), confirmar na fonte.",
+      "url": "https://drive.google.com/file/d/13WI4K8jePdBqcNVLa7HCcWjGF1wk55jU/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Agosto",
+      "data": "12/08",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1UAkAPt1fYYSY-ijUXFFmIn3CmGIH_0lh/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Agosto",
+      "data": "24/08",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "Pendência resolvida em 27/08/2026: o documento conflitante 'Cópia de HSSM - Agenda semanal 24-08-2026.docx' não existe mais no Drive. Confirmação independente da execução em 24/08/2026 (não em 25/08): planilha 'HSSM- SÃO SEBASTIÃO MÁRTIR' (aba Registros do Projeto, modificada 25/08/2026) traz 'Visita enfermeiro' e 'Tutoria presencial' (Viviane, Carla) como 'Concluído' em 24/08/2026, sem nenhum registro em 25/08; planilha de reembolsos (modificada 26/08/2026) registra viagem da consultora Viviane Boneli com 'Data da visita: 24/08/2026'; existe também arquivo 'HSSM visita 24/08/26' (sem equivalente para 25/08). Horários extraídos do documento remanescente 'Agenda_semanal_24-08-26 .docx' (Manhã 08:30–12:00, Tarde 13:00–17:00), cujos participantes (Carla e Viviane) batem com os registros oficiais.",
+      "url": "https://drive.google.com/file/d/1Vfh3XfRiaHc02GM8UVgmt4Y45AW8KgL5/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Setembro",
+      "data": "02/09",
+      "status": "Planejada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "Agenda semanal detalhada emitida em 28/08/2026 ('HSSM Agenda_semanal_02.09.26.docx'). Início = 08:30, fim = 17:00 conforme tabela interna. Visita ainda futura em relação a hoje (30/08/2026) — status permanece Planejada.",
+      "url": "https://drive.google.com/file/d/1VBBqifrCvNtHUc3LQBb7KQ9_rGSBtN3Z/view"
+    },
+    {
+      "projeto": "HSSM",
+      "mes": "Setembro",
+      "data": "22/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": null
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Janeiro",
+      "data": "07/01",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1PmZKJrpav9z6ccBG9nYRQaIZ6fDIs9Dk/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Janeiro",
+      "data": "08/01",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1PmZKJrpav9z6ccBG9nYRQaIZ6fDIs9Dk/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Janeiro",
+      "data": "20/01",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1VwXjEGeKb6ryIkJYg1PRWsv5X0R0T0kL/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Janeiro",
+      "data": "28/01",
+      "status": "Realizada",
+      "ini": "09:30",
+      "fim": "15:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1xO0SJ19hR4efV9wzYRrx2uYs6xQhsp8G/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Fevereiro",
+      "data": "09/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/126H4yuF2nCBMNRad4hUJGUqILT2Bb_Yh/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Fevereiro",
+      "data": "10/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/126H4yuF2nCBMNRad4hUJGUqILT2Bb_Yh/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Fevereiro",
+      "data": "19/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1G43onMUs5hdGDsgplPWmXnv8DYuVLSiW/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Fevereiro",
+      "data": "20/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1G43onMUs5hdGDsgplPWmXnv8DYuVLSiW/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Março",
+      "data": "10/03",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1lSK1FHh_HKi2yF3NmdqrOForKBAyIFTQ/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Março",
+      "data": "17/03",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1e9kQ_IYZGPfLahAJh6l7amFperwazn1M/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Março",
+      "data": "30/03",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1M59dV9dIjX6VEzi303UmjTm1qij2bJK-/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Março",
+      "data": "31/03",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1M59dV9dIjX6VEzi303UmjTm1qij2bJK-/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Abril",
+      "data": "16/04",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1Ow6Gkd2NZ5QmdNwVppKlDjWF62ZvDp19/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Abril",
+      "data": "23/04",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1HNrzyJPfcGDot5eNf0wclY7HnXiFO0cK/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Abril",
+      "data": "24/04",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1HNrzyJPfcGDot5eNf0wclY7HnXiFO0cK/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Abril",
+      "data": "28/04",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/14srL-TjJotEmPUYPq5V4ZZYCDJ4IJg_u/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Maio",
+      "data": "06/05",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1FVTZP3SYLbUcJjtcMmEAVw5i74VmEtv9/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Maio",
+      "data": "21/05",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1Bz-vGrVmBwghl7pp69Vo6YDYsbejVrJE/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Maio",
+      "data": "28/05",
+      "status": "Cancelada",
+      "ini": null,
+      "fim": null,
+      "obs": "Visita SUSPENSA a pedido do cliente (conflito com visita de certificação ISO no hospital nesse dia) — fonte: planilha 'Controle de projeto - HNSG - EGA', aba Registros, modificada 12/08/2026. Sem reagendamento/confirmação definitiva até o momento.",
+      "url": "https://drive.google.com/file/d/1582NPRHPlVdcefAoogEzhjTfTHRExcLOEVFW0FVrNKc/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Junho",
+      "data": "02/06",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1xq_45xMc2uvZ6IrB4-ImDUNWEyNJ3hUo/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Junho",
+      "data": "18/06",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "16:00",
+      "obs": "Corrigido em auditoria (12/08/2026): horário de início real é 08h30 (não 08h00), conforme primeira atividade da tabela do documento-fonte ('Operação | Consultores + Equipe NIR', 08h30-09h00). Não há atividade às 08h00 no documento.",
+      "url": "https://drive.google.com/file/d/1XMzt_ubF2aKOZX_CTxoms0p05G3rnFrz/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Julho",
+      "data": "01/07",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/15d7YXmzfuU5Lxm2jPmzj6Z3TkU7Gy4W2/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Julho",
+      "data": "02/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/15d7YXmzfuU5Lxm2jPmzj6Z3TkU7Gy4W2/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Julho",
+      "data": "15/07",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1ErjfMwqrNC5wEqPMOYs6ygX4oeB3YiC2/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Julho",
+      "data": "16/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1ErjfMwqrNC5wEqPMOYs6ygX4oeB3YiC2/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Julho",
+      "data": "30/07",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1VtwTRjxvlbXAywzOhSiNDZ0OGdROOqXt/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Agosto",
+      "data": "10/08",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/13BFdsvSWJ8-IU7_x0IrcERJEiHN_9vtl/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Agosto",
+      "data": "26/08",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "Agenda semanal detalhada emitida ('Agenda_semanal_ 26/08 a 27/ 08 HNSG.docx', emissão 17/08/2026, criada no Drive em 21/08/2026). Dia [26/08/2026] Quarta-feira: início = primeira atividade da tabela Manhã (08:30–09:00, Supervisão in loco); fim = última atividade da tabela Tarde (16:00–17:00, 'Bate-Mapa'). Nota: assinatura do documento traz ano incorreto ('Belo Horizonte, 21/08/2025'), erro recorrente de template já visto em documentos anteriores — não afeta as datas das tabelas diárias. Substitui a linha placeholder anterior (só cronograma mensal). Status 'Realizada' pois a data já passou (checagem de calendário, Passo 7).",
+      "url": "https://drive.google.com/file/d/1r-dyGTx1BjG-7WWxD6V4m3ClDrgV87QS/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Agosto",
+      "data": "27/08",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:30",
+      "obs": "Ver observação de 26/08 — mesmo documento ('Agenda_semanal_ 26/08 a 27/ 08 HNSG.docx', emissão 17/08/2026). Dia [27/08/2026] Quinta-feira: início = primeira atividade da tabela Manhã (08:00–09:00, validação evolução padrão); fim = última atividade da tabela Tarde (15:30–16:30, 'Reunião diretiva — Apresentação de evolução do projeto'). Corrigido de 'Planejada' para 'Realizada' em 30/08/2026: confirmado por evidência independente (planilha 'Controle de projeto - HNSG - EGA', duas entradas 'Concluído' em 27/08 — Visita médico e Reunião Diretiva).",
+      "url": "https://drive.google.com/file/d/1r-dyGTx1BjG-7WWxD6V4m3ClDrgV87QS/view"
+    },
+    {
+      "projeto": "HNSG",
+      "mes": "Setembro",
+      "data": "10/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida. Fonte: 'Cronograma Mensal Setembro HNSG.docx', emissão 17/08/2026 (único período previsto: 10/09, consultor Emerson, entrega final do projeto NIR).",
+      "url": "https://drive.google.com/file/d/1-d3_86Ez5QH4hjrHvMebr4pPFJUmO86j/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Janeiro",
+      "data": "06/01",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1aBLIfZZg_kFMaXND4v_ZgdTgIZJNmeEN/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Janeiro",
+      "data": "21/01",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1tshShLW6ISn72IUTe1Ekm_gJENj36b5h/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Janeiro",
+      "data": "22/01",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1tshShLW6ISn72IUTe1Ekm_gJENj36b5h/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Fevereiro",
+      "data": "11/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1mZuYnlXcbNUy4FvECUmgdUnLwEkX1tQJ/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Fevereiro",
+      "data": "12/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1mZuYnlXcbNUy4FvECUmgdUnLwEkX1tQJ/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Fevereiro",
+      "data": "18/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1RPb13lOBmCWxOou4rWU1grKdJbiysmwd/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Fevereiro",
+      "data": "23/02",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1SL5D6UPkQnGH349SA46J8jUcKIO-XcMj/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Março",
+      "data": "11/03",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/19dfsR_mK3npr1DqXdEYl3vwRfcCTPOu2/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Março",
+      "data": "18/03",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1NQM7c5CGMmbKako1-yan2TmAt4hV5kTV/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Março",
+      "data": "19/03",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1NQM7c5CGMmbKako1-yan2TmAt4hV5kTV/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Abril",
+      "data": "01/04",
+      "status": "Realizada",
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1kSgy11ZuGXf_MlfgzPFC3FQOENWp48GO/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Abril",
+      "data": "09/04",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1UtlpkkIpQ5Wo_Y8L_r9bjcnIb5JnTLtU/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Abril",
+      "data": "22/04",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1G_J58tbvuX1WeZenTsnfOxoYcCH-CSr2/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Abril",
+      "data": "29/04",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "16:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1s-O8cZFvRGPnLWtdTXov5Ql0fdGaLeSq/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Maio",
+      "data": "05/05",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1rhJmpQkTESOv3WQT9GSrajhXuNybZwCe/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Maio",
+      "data": "07/05",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1dephNDs8rq7hucfuf-f9D_3NPOnhrVeb/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Maio",
+      "data": "19/05",
+      "status": "Realizada",
+      "ini": "07:30",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1s-KU85Ak6_hPHCv9-ISuKprdIDTFnA88/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Maio",
+      "data": "20/05",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1s-KU85Ak6_hPHCv9-ISuKprdIDTFnA88/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Junho",
+      "data": "03/06",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1zs8cRJmKvt1foVWC4DDcSlCgQ3aRlUp4/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Junho",
+      "data": "16/06",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1ETa45S8UOKGsNlvCl1Us0KH2Wdn5eE4H/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Junho",
+      "data": "17/06",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1ETa45S8UOKGsNlvCl1Us0KH2Wdn5eE4H/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Junho",
+      "data": "30/06",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1W84yvNDMu57MgcyVwjiT4a44sZltmi_G/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Julho",
+      "data": "09/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1PLbCoF-jUybPljhtCRZIeuiufVAeg1jC/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Julho",
+      "data": "14/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1lbE9HhU65XYJRv_CCKj-Gxd0ZdL26Kvr/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Julho",
+      "data": "28/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1-rNgVgEQ_TWXqm75zWY9TPTX9EpQMMmB/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Julho",
+      "data": "29/07",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "",
+      "url": "https://drive.google.com/file/d/1-rNgVgEQ_TWXqm75zWY9TPTX9EpQMMmB/view"
+    },
+    {
+      "projeto": "FSFA",
+      "mes": "Agosto",
+      "data": "11/08",
+      "status": "Realizada",
+      "ini": "08:00",
+      "fim": "12:00",
+      "obs": "Visita de entrega final do projeto — meio período.",
+      "url": "https://drive.google.com/file/d/1LTgDJSt_WhZtIp_jmmjw_Cu5GEQPWzDa/view"
+    }
+  ]
+}
