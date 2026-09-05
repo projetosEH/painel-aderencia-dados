@@ -3544,10 +3544,10 @@
       "mes": "Setembro",
       "data": "10/09",
       "status": "Planejada",
-      "ini": null,
-      "fim": null,
-      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida. Fonte: 'Cronograma Mensal Setembro HNSG.docx', emissão 17/08/2026 (único período previsto: 10/09, consultor Emerson, entrega final do projeto NIR).",
-      "url": "https://drive.google.com/file/d/1-d3_86Ez5QH4hjrHvMebr4pPFJUmO86j/view"
+      "ini": "08:30",
+      "fim": "17:00",
+      "obs": "Agenda semanal detalhada emitida ('Agenda_semanal_ 10_09 HNSG.docx', emissão 04/09/2026, criada no Drive em 04/09/2026 10:51 UTC). Dia [10/09/2026] Quinta-feira: início = primeira atividade da tabela Manhã (08:30–09:00, Supervisão in loco de rotinas assistenciais); fim = última atividade da tabela Tarde (16:00–17:00, 'Bate-Mapa'). Cabeçalho ('08h às 17h') consistente com a tabela desta vez. Substitui a linha anterior (só cronograma mensal) — este documento já existia no Drive quando a varredura de 04-05/09/2026 rodou, mas não foi capturado por ela (falha de busca identificada e corrigida em 05/09/2026). Visita ainda futura em relação a hoje — status permanece Planejada.",
+      "url": "https://drive.google.com/file/d/1ww5Ni-__QaXhi8eJRnRQzKzi86CRVH-_/view"
     },
     {
       "projeto": "FSFA",
