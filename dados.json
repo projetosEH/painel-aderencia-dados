@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "30/08/2026",
+  "snapshotDate": "05/09/2026",
   "projetos": [
     "HCB",
     "HEAPA",
@@ -1633,7 +1633,7 @@
       "projeto": "LRV",
       "mes": "Agosto",
       "data": "31/08",
-      "status": "Planejada",
+      "status": "Realizada",
       "ini": "11:30",
       "fim": "17:00",
       "obs": "Agenda semanal detalhada emitida ('Agenda 30/08 a 02/09 docx', emissão 25/08/2026, carregada no Drive 25-26/08/2026). Dia [31/08/2026] Segunda-feira, tabela única Manhã/Tarde: início = 11:30 (Supervisão in loco de rotinas assistenciais); fim = 17:00 (Relatório de Setup — reunião com TI). Substitui a linha placeholder anterior (só cronograma mensal). Visita ainda não ocorreu (data futura em relação a hoje, 27/08/2026).",
@@ -1643,7 +1643,7 @@
       "projeto": "LRV",
       "mes": "Setembro",
       "data": "01/09",
-      "status": "Planejada",
+      "status": "Realizada",
       "ini": "07:30",
       "fim": "19:30",
       "obs": "Ver observação de 31/08 — mesmo documento. Dia [01/09/2026] Terça-feira: tabela Manhã (07:30–12:00) + tabela Tarde separada mais adiante (14:00–19:30), mesmo dia. Início = 07:30 (Huddle Institucional); fim = 19:30 (última linha da Tarde, 'Workshop - Gestão de acesso - Huddle na prática', 18:30–19:30). Nota: essa mesma atividade aparece duas vezes na tabela Tarde (15:30–16:30 e 18:30–19:30, mesma descrição/participantes/local) — pode ser duas sessões reais ou duplicação no documento-fonte; mantido o último horário conforme regra de 'último horário da última linha', sinalizado aqui para validação humana. Substitui a linha placeholder anterior. Visita ainda não ocorreu (data futura em relação a hoje, 27/08/2026).",
@@ -1653,11 +1653,41 @@
       "projeto": "LRV",
       "mes": "Setembro",
       "data": "02/09",
-      "status": "Planejada",
+      "status": "Realizada",
       "ini": "07:00",
       "fim": "12:00",
       "obs": "Ver observação de 31/08 — mesmo documento. Dia [02/09/2026] Quarta-feira, apenas seção Manhã: início = 07:00 (Reunião diretiva — apresentação de andamento e resultados); fim = 12:00 (Tutoria Equipe MH — transição de cuidados intra-hospitalar). Substitui a linha placeholder anterior. Visita ainda não ocorreu (data futura em relação a hoje, 27/08/2026).",
       "url": "https://drive.google.com/file/d/1perpyivH8qXGiKblErCDtQVC2G-cWI8C/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Setembro",
+      "data": "08/09",
+      "status": "Planejada",
+      "ini": "11:30",
+      "fim": "17:00",
+      "obs": "Agenda semanal detalhada emitida ('Agenda 08 a 10/09 docx', emissão 03/09/2026, consultores Camila Maia e Samuel Nolasco). Início/fim conforme tabela interna de atividades (não o campo de cabeçalho). Visita ainda não ocorreu (data futura em relação a hoje, 05/09/2026).",
+      "url": "https://drive.google.com/file/d/1AuDZy0A8x0Uf9Vf5koRW_xQY-GsSaJQF/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Setembro",
+      "data": "09/09",
+      "status": "Planejada",
+      "ini": "07:30",
+      "fim": "17:00",
+      "obs": "Ver observação de 08/09 — mesmo documento.",
+      "url": "https://drive.google.com/file/d/1AuDZy0A8x0Uf9Vf5koRW_xQY-GsSaJQF/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Setembro",
+      "data": "10/09",
+      "status": "Planejada",
+      "ini": "07:30",
+      "fim": "12:00",
+      "obs": "Ver observação de 08/09 — mesmo documento.",
+      "url": "https://drive.google.com/file/d/1AuDZy0A8x0Uf9Vf5koRW_xQY-GsSaJQF/view"
     },
     {
       "projeto": "HBB",
@@ -2252,22 +2282,22 @@
     {
       "projeto": "SL",
       "mes": "Setembro",
-      "data": "22/09",
+      "data": "23/09",
       "status": "Planejada",
-      "ini": null,
-      "fim": null,
-      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
-      "url": null
+      "ini": "09:00",
+      "fim": "16:00",
+      "obs": "Substitui a linha '22/09 Planejada' antes registrada — data corrigida por agenda formal emitida 03/09/2026 ('18. Agenda Visita CHSL Set.26.docx'; já havia sido sinalizada verbalmente em ata de 28/08). Tabela interna: início 09h (Huddle NIR&EGA&DRG), fim 16h (operação in loco).",
+      "url": "https://drive.google.com/file/d/1U7XNfYYp24sqvH0VqRqsdQxzivxA_uFd/view"
     },
     {
       "projeto": "SL",
       "mes": "Setembro",
-      "data": "23/09",
+      "data": "24/09",
       "status": "Planejada",
-      "ini": null,
-      "fim": null,
-      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
-      "url": null
+      "ini": "09:00",
+      "fim": "16:00",
+      "obs": "Substitui a linha '23/09 Planejada' antes registrada — data corrigida por agenda formal emitida 03/09/2026 ('18. Agenda Visita CHSL Set.26.docx'). Tabela interna: início 09h (Huddle), fim 15:30-16h (fechamento/próximos passos).",
+      "url": "https://drive.google.com/file/d/1U7XNfYYp24sqvH0VqRqsdQxzivxA_uFd/view"
     },
     {
       "projeto": "HSJ",
@@ -2560,6 +2590,26 @@
       "url": "https://drive.google.com/file/d/1KgLMxYVEKyMBCdM6sgLkiSsDG8J2Inkc/view"
     },
     {
+      "projeto": "HSJ",
+      "mes": "Setembro",
+      "data": "10/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal ('Cronograma Setembro_26 São Jose (1).docx', criado 03/09/2026) — visita da consultora Sofia Matoso. Existe um arquivo 'Agenda 10/09/26.docx' na pasta, mas sua tabela interna está rotulada erroneamente 'DIA 19/08/2026' e reproduz os horários já registrados para 19/08 — reaproveitamento indevido de template antigo, não usado como confirmação de horário. Aguardando agenda semanal correta.",
+      "url": "https://drive.google.com/file/d/1icpVcfSz8TcNdX3U3gPktSlBMiTBg-jV/view"
+    },
+    {
+      "projeto": "HSJ",
+      "mes": "Setembro",
+      "data": "24/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — visita das consultoras Sofia Matoso e Carla Abich. Agenda semanal detalhada ainda não emitida.",
+      "url": "https://drive.google.com/file/d/1icpVcfSz8TcNdX3U3gPktSlBMiTBg-jV/view"
+    },
+    {
       "projeto": "AJ",
       "mes": "Março",
       "data": "18/03",
@@ -2782,22 +2832,22 @@
     {
       "projeto": "AJ",
       "mes": "Setembro",
-      "data": "16/09",
+      "data": "15/09",
       "status": "Planejada",
-      "ini": null,
-      "fim": null,
-      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
-      "url": null
+      "ini": "08:00",
+      "fim": "17:30",
+      "obs": "Agenda semanal detalhada emitida (criada 03/09/2026), substitui o placeholder anterior rastreado como '16/09'. Tabela interna: início 08:00, fim 16:30-17:30 (Safety Huddle).",
+      "url": "https://drive.google.com/file/d/1F9SXzR58w1fHkwHUEHDY14gXiocbrYa7/view"
     },
     {
       "projeto": "AJ",
       "mes": "Setembro",
-      "data": "17/09",
+      "data": "16/09",
       "status": "Planejada",
-      "ini": null,
-      "fim": null,
-      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
-      "url": null
+      "ini": "07:00",
+      "fim": "16:00",
+      "obs": "Agenda semanal detalhada emitida (criada 03/09/2026), substitui expectativa do cronograma mensal (que previa 16-17/09; a agenda real cobre 15-16/09). Tabela interna: início 07:00 (Acompanhamento operacional), fim 15:00-16:00 (Fechamento da visita).",
+      "url": "https://drive.google.com/file/d/1F9SXzR58w1fHkwHUEHDY14gXiocbrYa7/view"
     },
     {
       "projeto": "AJ",
@@ -3003,7 +3053,7 @@
       "projeto": "SCBH",
       "mes": "Setembro",
       "data": "03/09",
-      "status": "Planejada",
+      "status": "Realizada",
       "ini": "08:30",
       "fim": "17:00",
       "obs": "Agenda semanal detalhada emitida em 28/08/2026 ('19. Agenda Visita SCBH Set.26.docx', criado 28/08/2026 13:39). Início = 08:30 (Acompanhamento e Supervisão da operação in loco); fim = 17:00 (Revisão de pendências e próximos passos). Cabeçalho ('8:30h às 17:00h') consistente com a tabela. Visita ainda futura em relação a hoje (30/08/2026) — status permanece Planejada.",
@@ -3183,10 +3233,10 @@
       "projeto": "HSSM",
       "mes": "Setembro",
       "data": "02/09",
-      "status": "Planejada",
+      "status": "Realizada",
       "ini": "08:30",
-      "fim": "17:00",
-      "obs": "Agenda semanal detalhada emitida em 28/08/2026 ('HSSM Agenda_semanal_02.09.26.docx'). Início = 08:30, fim = 17:00 conforme tabela interna. Visita ainda futura em relação a hoje (30/08/2026) — status permanece Planejada.",
+      "fim": "16:30",
+      "obs": "Confirmada via aba Capacitação (2 treinamentos presenciais 'Concluído' em 02/09) e planilha de Análise de Readmissão datada 02/09. Agenda revisada ('Agenda_semanal_02.09.26 rev1.docx', emitida 31/08/2026) reduziu o horário final da tabela interna de 17:00 para 16:30 (última atividade: Fechamento alinhamento de pendências). Sem evidência de cancelamento.",
       "url": "https://drive.google.com/file/d/1VBBqifrCvNtHUc3LQBb7KQ9_rGSBtN3Z/view"
     },
     {
