@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "05/09/2026",
+  "snapshotDate": "06/09/2026",
   "projetos": [
     "HCB",
     "HEAPA",
@@ -1690,6 +1690,96 @@
       "url": "https://drive.google.com/file/d/1AuDZy0A8x0Uf9Vf5koRW_xQY-GsSaJQF/view"
     },
     {
+      "projeto": "LRV",
+      "mes": "Setembro",
+      "data": "30/09",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Cronograma Setembro/26: período [30/09 a 02/10], consultores Camila e Samuel. Só cronograma mensal — agenda detalhada ainda não emitida. ATENÇÃO: possível conflito/reagendamento — o Cronograma de Setembro previa a visita seguinte em [30/09 a 02/10] com Camila e Samuel; o Cronograma de Outubro não repete esse período e começa direto em [05/10 a 07/10] só com Camila, um intervalo de apenas 3 dias em vez do padrão de ~3 semanas entre visitas. Pode ser a mesma visita remarcada ou uma visita extra — recomendo validação humana antes de consolidar as duas janelas.",
+      "url": "https://drive.google.com/file/d/1OEzVwD67l4bXSRj6fnWb4CsaDGE01Jg8/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Outubro",
+      "data": "01/10",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Ver observação de 30/09 — mesmo documento (Cronograma Setembro/26).",
+      "url": "https://drive.google.com/file/d/1OEzVwD67l4bXSRj6fnWb4CsaDGE01Jg8/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Outubro",
+      "data": "02/10",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Ver observação de 30/09 — mesmo documento (Cronograma Setembro/26).",
+      "url": "https://drive.google.com/file/d/1OEzVwD67l4bXSRj6fnWb4CsaDGE01Jg8/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Outubro",
+      "data": "05/10",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Cronograma Outubro/26: período [05/10 a 07/10], consultora Camila (sozinha). Só cronograma mensal — agenda detalhada ainda não emitida. ATENÇÃO: possível conflito/reagendamento — o Cronograma de Setembro previa a visita seguinte em [30/09 a 02/10] com Camila e Samuel; o Cronograma de Outubro não repete esse período e começa direto em [05/10 a 07/10] só com Camila, um intervalo de apenas 3 dias em vez do padrão de ~3 semanas entre visitas. Pode ser a mesma visita remarcada ou uma visita extra — recomendo validação humana antes de consolidar as duas janelas.",
+      "url": "https://drive.google.com/file/d/1LUPMYjmK_b0tQoSCJ77nVy9tj09n_Mye/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Outubro",
+      "data": "06/10",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Ver observação de 05/10 — mesmo documento (Cronograma Outubro/26).",
+      "url": "https://drive.google.com/file/d/1LUPMYjmK_b0tQoSCJ77nVy9tj09n_Mye/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Outubro",
+      "data": "07/10",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Ver observação de 05/10 — mesmo documento (Cronograma Outubro/26).",
+      "url": "https://drive.google.com/file/d/1LUPMYjmK_b0tQoSCJ77nVy9tj09n_Mye/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Outubro",
+      "data": "19/10",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Cronograma Outubro/26: período [19/10 a 21/10], consultores Camila, Samuel e Vinicius Sabedot. Só cronograma mensal — agenda detalhada ainda não emitida.",
+      "url": "https://drive.google.com/file/d/1LUPMYjmK_b0tQoSCJ77nVy9tj09n_Mye/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Outubro",
+      "data": "20/10",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Ver observação de 19/10 — mesmo documento (Cronograma Outubro/26).",
+      "url": "https://drive.google.com/file/d/1LUPMYjmK_b0tQoSCJ77nVy9tj09n_Mye/view"
+    },
+    {
+      "projeto": "LRV",
+      "mes": "Outubro",
+      "data": "21/10",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Ver observação de 19/10 — mesmo documento (Cronograma Outubro/26).",
+      "url": "https://drive.google.com/file/d/1LUPMYjmK_b0tQoSCJ77nVy9tj09n_Mye/view"
+    },
+    {
       "projeto": "HBB",
       "mes": "Janeiro",
       "data": "15/01",
@@ -2868,6 +2958,46 @@
       "fim": null,
       "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
       "url": null
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Outubro",
+      "data": "08/10",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — consultora Camila. Fonte: 'Cronograma Outubro AJ.docx', emissão/criação 03/09/2026.",
+      "url": "https://drive.google.com/file/d/15vY2Zz9CvMtsD67JK0KqT-TjhGSiWyFR/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Outubro",
+      "data": "09/10",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Ver observação de 08/10 — mesmo documento.",
+      "url": "https://drive.google.com/file/d/15vY2Zz9CvMtsD67JK0KqT-TjhGSiWyFR/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Outubro",
+      "data": "22/10",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Só cronograma mensal — consultoras Camila e Samuel. Mesmo documento.",
+      "url": "https://drive.google.com/file/d/15vY2Zz9CvMtsD67JK0KqT-TjhGSiWyFR/view"
+    },
+    {
+      "projeto": "AJ",
+      "mes": "Outubro",
+      "data": "23/10",
+      "status": "Planejada",
+      "ini": null,
+      "fim": null,
+      "obs": "Ver observação de 22/10 — mesmo documento.",
+      "url": "https://drive.google.com/file/d/15vY2Zz9CvMtsD67JK0KqT-TjhGSiWyFR/view"
     },
     {
       "projeto": "SCBH",
