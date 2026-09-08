@@ -1,5 +1,5 @@
 {
-  "snapshotDate": "06/09/2026",
+  "snapshotDate": "08/09/2026",
   "projetos": [
     "HCB",
     "HEAPA",
@@ -1974,20 +1974,20 @@
       "mes": "Setembro",
       "data": "09/09",
       "status": "Planejada",
-      "ini": null,
-      "fim": null,
-      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
-      "url": null
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "Agenda semanal detalhada emitida ('Agenda_semanal UTI 09_09 .docx', emissão 04/09/2026), encontrada em 08/09/2026 — carregada por engano na subpasta Mensal/setembro/26 em vez de Semanal/setembro/26 (que segue vazia). Consultoras Viviane e Carla. Tabela interna: início 08:00 (Tutoria presencial), fim 16:30–17:00 (Fechamento da visita). Visita ainda futura em relação a hoje (08/09/2026).",
+      "url": "https://drive.google.com/file/d/1_aepMTLQISxKyjfHP3Cl5BkI0t-Q-IfB/view"
     },
     {
       "projeto": "HBB",
       "mes": "Setembro",
       "data": "10/09",
       "status": "Planejada",
-      "ini": null,
-      "fim": null,
-      "obs": "Só cronograma mensal — agenda detalhada ainda não emitida.",
-      "url": null
+      "ini": "08:00",
+      "fim": "17:00",
+      "obs": "Agenda semanal detalhada emitida ('Agenda_semanal MH_ONCO_10.09 .docx', emissão 04/09/2026), encontrada em 08/09/2026 — mesmo problema de arquivamento (pasta Mensal em vez de Semanal). Consultores Gabriel e Carla (Viviane citada no cabeçalho). Tabela interna: início 08:00 (Acompanhar registros/ferramentas Safety), fim 16:00–17:00 (Fechamento da visita e alinhamento das pendências). Visita ainda futura em relação a hoje (08/09/2026).",
+      "url": "https://drive.google.com/file/d/18n613jJtxFp2jIA1s_hjFUZiwvPPokUe/view"
     },
     {
       "projeto": "HBB",
