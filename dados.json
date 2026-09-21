@@ -1,5 +1,5 @@
 {
- "snapshotDate": "20/09/2026",
+ "snapshotDate": "21/09/2026",
  "projetos": [
   "HCB",
   "HEAPA",
@@ -2323,10 +2323,10 @@
    "projeto": "SL",
    "mes": "Agosto",
    "data": "06/08",
-   "status": "Realizada",
-   "ini": "08:00",
-   "fim": "15:30",
-   "obs": "⚠️ CONFLITO SINALIZADO EM 20/09/2026 (requer validação humana, status mantido 'Realizada' por ora): a planilha 'Painel do projeto - HOSPITAL SAMUEL LIBANIO EGA' (aba Registros do Projeto), revisada em 17/09/2026, registra para 06/08/2026 uma linha com Responsável=Samuel, Modalidade='Visita médico', Status='Suspenso por demanda do cliente'. Isso conflita com a agenda semanal detalhada ('16. Agenda Visita CHSL Ago.26.docx', que cobre 05–06/08 até 15:30) usada para confirmar este dia como Realizada. Não está claro se a suspensão foi do dia inteiro ou só de uma atividade específica ('Visita médico') dentro do dia — mantido 'Realizada' com os horários já confirmados pela agenda-fonte até validação humana; NÃO rebaixado para 'Pendente' automaticamente, pois a evidência documental positiva (agenda detalhada) é mais direta que uma única linha de planilha ambígua.",
+   "status": "Cancelada",
+   "ini": null,
+   "fim": null,
+   "obs": "Visita SUSPENSA — CONFIRMADO em 21/09/2026 pelo usuário: 06/08/2026 era feriado municipal na cidade. Isso resolve o conflito sinalizado em 20/09/2026 entre a agenda semanal detalhada ('16. Agenda Visita CHSL Ago.26.docx', que previa a visita) e a planilha 'Painel do projeto - HOSPITAL SAMUEL LIBANIO EGA' (Registros do Projeto, revisada 17/09/2026), que já registrava a 'Visita médico' do dia como 'Suspenso por demanda do cliente'. Corrigido de 'Realizada 08:00–15:30' para 'Cancelada' — a visita não ocorreu nesse dia.",
    "url": "https://drive.google.com/file/d/197-W_sklD_bktc8hpO7qVR7_2Srvd8XH/view"
   },
   {
@@ -2662,16 +2662,6 @@
   {
    "projeto": "HSJ",
    "mes": "Agosto",
-   "data": "18/08",
-   "status": "Planejada",
-   "ini": null,
-   "fim": null,
-   "obs": "Pendência resolvida (não era mais erro de cópia): o documento 'Agenda 18 e 19/08/26.docx' foi atualizado no Drive em 17/08/2026 e deixou de ter conteúdo duplicado de 05-06/08, mas cobre só o dia 19/08 (agenda da consultora Sofia Matoso). Para 18/08, o 'Cronograma Agosto/26 São Jose.docx' confirma visita da consultora Karla Lemes nesse dia, porém ainda sem agenda semanal detalhada com horários específicos — só cronograma mensal. Reconferido em 20/09/2026 (Passo 3b): pendência continua aberta — único arquivo do período ('Agenda 18 e 19/08/26.docx') contém apenas uma tabela interna, rotulada 'DIA 19/08/2026', idêntica ao já registrado para 19/08; não há tabela própria para 18/08. Segue valendo só o cronograma mensal (visita da consultora Karla Lemes, sem horário).",
-   "url": null
-  },
-  {
-   "projeto": "HSJ",
-   "mes": "Agosto",
    "data": "19/08",
    "status": "Realizada",
    "ini": "09:00",
@@ -2683,11 +2673,11 @@
    "projeto": "HSJ",
    "mes": "Setembro",
    "data": "10/09",
-   "status": "Planejada",
-   "ini": null,
-   "fim": null,
-   "obs": "Só cronograma mensal ('Cronograma Setembro_26 São Jose (1).docx', criado 03/09/2026) — visita da consultora Sofia Matoso. Existe um arquivo 'Agenda 10/09/26.docx' na pasta, mas sua tabela interna está rotulada erroneamente 'DIA 19/08/2026' e reproduz os horários já registrados para 19/08 — reaproveitamento indevido de template antigo, não usado como confirmação de horário. Aguardando agenda semanal correta. Reconferido em 20/09/2026 (Passo 3b): pendência continua aberta — arquivo 'Agenda 10/09/26.docx' relido, mesmo file ID e mesmo modifiedTime (08/09/2026, não foi tocado desde a última auditoria). Cabeçalho diz corretamente '10/09/2026', mas a tabela interna continua rotulada 'DIA 19/08/2026 QUARTA-FEIRA' (reaproveitamento de template antigo). Aguardando agenda semanal correta.",
-   "url": "https://drive.google.com/file/d/1icpVcfSz8TcNdX3U3gPktSlBMiTBg-jV/view"
+   "status": "Realizada",
+   "ini": "09:00",
+   "fim": "16:00",
+   "obs": "Pendência RESOLVIDA em 21/09/2026: o arquivo 'Agenda 10/09/26.docx' foi corrigido no Drive (modificado 20/09/2026 22:51) — a tabela interna agora está corretamente rotulada 'DIA 10/09/2026 QUARTA-FEIRA' (antes reaproveitava o rótulo 'DIA 19/08/2026' de um template antigo). Pauta específica de setembro (Análise de Prontuário - Reinternações de Julho; Tutoria - Análise de óbitos de Julho), consultora Sofia Matoso. Horário real da tabela: 09:00 (Acompanhamento de rotinas NIR e MH) às 16:00 (Revisão de pendências, sem horário de término explícito no último item). Corrigido de 'Planejada' para 'Realizada' (checagem de calendário, Passo 7): data já passada, horário real confirmado, sem sinal de cancelamento.",
+   "url": "https://drive.google.com/file/d/1VLQe4DrcvT9YiVzYiQ0hE43kiae6qCsm/view"
   },
   {
    "projeto": "HSJ",
