@@ -1,5 +1,5 @@
 {
- "snapshotDate": "28/09/2026",
+ "snapshotDate": "05/10/2026",
  "projetos": [
   "HCB",
   "HEAPA",
@@ -1693,61 +1693,61 @@
    "projeto": "LRV",
    "mes": "Setembro",
    "data": "30/09",
-   "status": "Planejada",
+   "status": "Realizada",
    "ini": "11:30",
    "fim": "17:00",
-   "obs": "Agenda semanal detalhada 'Agenda 31 a 02/10 docx' (criada 15/09, modificada 17/09/2026 — após snapshot de 14/09) confirma horário real: 11:30–17:00. PENDÊNCIA DE CONFLITO SET/OUT RESOLVIDA em 20/09/2026: as janelas 30/09–02/10 (Camila+Samuel) e 05/10–07/10 (só Camila) são visitas reais e distintas, não uma remarcação. Evidência: a agenda semanal detalhada existe e bate com o Cronograma de Setembro; a ata 'EH Operacional Lucas do Rio Verde' de 17/09/2026 discute o planejamento dessa visita citando sessões de 'Escuta Ativa' com os mesmos médicos (Dra Cindy, Dra Fernanda, Dr. Thiago, Dra Larissa) agendados no documento; e a planilha de Controle de Projeto não registra nenhum cancelamento/suspensão para essas datas. Mantidas as duas janelas como visitas distintas.",
-   "url": "https://drive.google.com/file/d/1OEzVwD67l4bXSRj6fnWb4CsaDGE01Jg8/view"
+   "obs": "Agenda semanal detalhada 'Agenda 31 a 02/10 docx' (criada 15/09, modificada 17/09/2026 — após snapshot de 14/09) confirma horário real: 11:30–17:00. PENDÊNCIA DE CONFLITO SET/OUT RESOLVIDA em 20/09/2026: as janelas 30/09–02/10 (Camila+Samuel) e 05/10–07/10 (só Camila) são visitas reais e distintas, não uma remarcação. Evidência: a agenda semanal detalhada existe e bate com o Cronograma de Setembro; a ata 'EH Operacional Lucas do Rio Verde' de 17/09/2026 discute o planejamento dessa visita citando sessões de 'Escuta Ativa' com os mesmos médicos (Dra Cindy, Dra Fernanda, Dr. Thiago, Dra Larissa) agendados no documento; e a planilha de Controle de Projeto não registra nenhum cancelamento/suspensão para essas datas. Mantidas as duas janelas como visitas distintas. Corrigido de 'Planejada' para 'Realizada' em 05/10/2026 (checagem de calendário, Passo 7): a visita já ocorreu — data anterior a hoje — sem evidência de cancelamento no documento-fonte.",
+   "url": "https://drive.google.com/file/d/1qd2SE2PPqfCby8600SGuLrPgrUwe7nBU/view"
   },
   {
    "projeto": "LRV",
    "mes": "Outubro",
    "data": "01/10",
-   "status": "Planejada",
+   "status": "Realizada",
    "ini": "07:30",
    "fim": "17:00",
-   "obs": "Mesmo documento 'Agenda 31 a 02/10 docx' (17/09/2026). Tabela interna: Manhã 07:30–12:00, Tarde 13:30–17:00 → 07:30–17:00. Ver observação de 30/09 sobre a resolução do conflito Set/Out.",
-   "url": "https://drive.google.com/file/d/1OEzVwD67l4bXSRj6fnWb4CsaDGE01Jg8/view"
+   "obs": "Mesmo documento 'Agenda 31 a 02/10 docx' (17/09/2026). Tabela interna: Manhã 07:30–12:00, Tarde 13:30–17:00 → 07:30–17:00. Ver observação de 30/09 sobre a resolução do conflito Set/Out. Corrigido de 'Planejada' para 'Realizada' em 05/10/2026 (checagem de calendário, Passo 7): a visita já ocorreu — data anterior a hoje — sem evidência de cancelamento no documento-fonte.",
+   "url": "https://drive.google.com/file/d/1qd2SE2PPqfCby8600SGuLrPgrUwe7nBU/view"
   },
   {
    "projeto": "LRV",
    "mes": "Outubro",
    "data": "02/10",
-   "status": "Planejada",
+   "status": "Realizada",
    "ini": "07:30",
    "fim": "11:00",
-   "obs": "Mesmo documento 'Agenda 30/09 a 02/10.docx' (nome real; título anterior tinha erro de digitação 'Agenda 31 a 02/10'), modificado em 27/09/2026 22:05 UTC (após snapshot de 21/09). Tabela interna do dia 02/10 só tem bloco Manhã (07:30–07:45, 08:00–09:00, 09:00–10:00, 10:00–11:00), sem bloco Tarde — corrige fim de 12:00 para 11:00. Sem evidência de cancelamento da atividade da tarde no documento-fonte; sinalizado para validação humana.",
-   "url": "https://drive.google.com/file/d/1OEzVwD67l4bXSRj6fnWb4CsaDGE01Jg8/view"
+   "obs": "Mesmo documento 'Agenda 30/09 a 02/10.docx' (nome real; título anterior tinha erro de digitação 'Agenda 31 a 02/10'), modificado em 27/09/2026 22:05 UTC (após snapshot de 21/09). Tabela interna do dia 02/10 só tem bloco Manhã (07:30–07:45, 08:00–09:00, 09:00–10:00, 10:00–11:00), sem bloco Tarde — corrige fim de 12:00 para 11:00. Sem evidência de cancelamento da atividade da tarde no documento-fonte; sinalizado para validação humana. Corrigido de 'Planejada' para 'Realizada' em 05/10/2026 (checagem de calendário, Passo 7): a visita já ocorreu — data anterior a hoje — sem evidência de cancelamento no documento-fonte.",
+   "url": "https://drive.google.com/file/d/1qd2SE2PPqfCby8600SGuLrPgrUwe7nBU/view"
   },
   {
    "projeto": "LRV",
    "mes": "Outubro",
    "data": "05/10",
    "status": "Planejada",
-   "ini": null,
-   "fim": null,
-   "obs": "Cronograma Outubro/26: período [05/10 a 07/10], consultora Camila (sozinha). Só cronograma mensal — agenda detalhada ainda não emitida. ATENÇÃO: possível conflito/reagendamento — o Cronograma de Setembro previa a visita seguinte em [30/09 a 02/10] com Camila e Samuel; o Cronograma de Outubro não repete esse período e começa direto em [05/10 a 07/10] só com Camila, um intervalo de apenas 3 dias em vez do padrão de ~3 semanas entre visitas. Pode ser a mesma visita remarcada ou uma visita extra — recomendo validação humana antes de consolidar as duas janelas.",
-   "url": "https://drive.google.com/file/d/1LUPMYjmK_b0tQoSCJ77nVy9tj09n_Mye/view"
+   "ini": "11:00",
+   "fim": "17:00",
+   "obs": "Agenda semanal detalhada 'Agenda 05/10 a 07/10.docx' (emissão 30/09/2026, criada 30/09 e modificada 02/10/2026 — após snapshot de 28/09). Dia [05/10/2026] Segunda-feira, tabela única Manhã/Tarde: início 11:00 (Acompanhamento da rotina operacional da equipe), fim 17:00 (Apresentação do protocolo de transição de cuidados e SBAR).",
+   "url": "https://drive.google.com/file/d/1Ka5rmTXib4kSNuYXt7cBkFQ4ou8cKzo9/view"
   },
   {
    "projeto": "LRV",
    "mes": "Outubro",
    "data": "06/10",
    "status": "Planejada",
-   "ini": null,
-   "fim": null,
-   "obs": "Ver observação de 05/10 — mesmo documento (Cronograma Outubro/26).",
-   "url": "https://drive.google.com/file/d/1LUPMYjmK_b0tQoSCJ77nVy9tj09n_Mye/view"
+   "ini": "07:30",
+   "fim": "17:00",
+   "obs": "Ver observação de 05/10 — mesmo documento. Dia [06/10/2026] Terça-feira: Manhã (07:30 Huddle Institucional) + Tarde (16:00–17:00 Controle do NIR sobre leitos de UTI e eletivos) → 07:30–17:00.",
+   "url": "https://drive.google.com/file/d/1Ka5rmTXib4kSNuYXt7cBkFQ4ou8cKzo9/view"
   },
   {
    "projeto": "LRV",
    "mes": "Outubro",
    "data": "07/10",
    "status": "Planejada",
-   "ini": null,
-   "fim": null,
-   "obs": "Ver observação de 05/10 — mesmo documento (Cronograma Outubro/26).",
-   "url": "https://drive.google.com/file/d/1LUPMYjmK_b0tQoSCJ77nVy9tj09n_Mye/view"
+   "ini": "07:30",
+   "fim": "12:00",
+   "obs": "Ver observação de 05/10 — mesmo documento. Dia [07/10/2026] Quarta-feira, só bloco Manhã: 07:30 (Huddle Institucional) até 12:00 (Tutoria MH — Relatório padrão para Rede pós-alta); sem bloco Tarde.",
+   "url": "https://drive.google.com/file/d/1Ka5rmTXib4kSNuYXt7cBkFQ4ou8cKzo9/view"
   },
   {
    "projeto": "LRV",
@@ -2933,20 +2933,20 @@
    "projeto": "AJ",
    "mes": "Setembro",
    "data": "28/09",
-   "status": "Planejada",
+   "status": "Realizada",
    "ini": "09:00",
    "fim": "17:00",
-   "obs": "Agenda semanal detalhada 'Agenda semanal AJ 28 A 29-09' editada em 17/09/2026 (após snapshot de 14/09). Tabela interna: Manhã 09:00–12:00 + Tarde 13:00–17:00 → 09:00–17:00. Campo de cabeçalho 'Período da agenda' é um placeholder genérico não preenchido e foi ignorado.",
+   "obs": "Agenda semanal detalhada 'Agenda semanal AJ 28 A 29-09' editada em 17/09/2026 (após snapshot de 14/09). Tabela interna: Manhã 09:00–12:00 + Tarde 13:00–17:00 → 09:00–17:00. Campo de cabeçalho 'Período da agenda' é um placeholder genérico não preenchido e foi ignorado. Corrigido de 'Planejada' para 'Realizada' em 05/10/2026 (checagem de calendário, Passo 7): a visita já ocorreu — data anterior a hoje — sem evidência de cancelamento no documento-fonte.",
    "url": null
   },
   {
    "projeto": "AJ",
    "mes": "Setembro",
    "data": "29/09",
-   "status": "Planejada",
+   "status": "Realizada",
    "ini": "08:00",
    "fim": "17:00",
-   "obs": "ATUALIZADO: doc 'Agenda semanal AJ 28 A 29-09.docx' teve edição real em 27/09/2026 22:09 UTC (véspera de hoje), apesar de emissão declarada 14/09/2026 e assinatura 17/09/2026 — upload/edição tardia (padrão já visto no projeto). Tabela interna do dia 29/09: Manhã 08-12 (blocos de 1h), Tarde 13-17 (13-14, 14-15, 15-17); o bloco final de Safety Huddle passou a terminar às 17:00 (antes fim registrado era 16:00).",
+   "obs": "ATUALIZADO: doc 'Agenda semanal AJ 28 A 29-09.docx' teve edição real em 27/09/2026 22:09 UTC (véspera de hoje), apesar de emissão declarada 14/09/2026 e assinatura 17/09/2026 — upload/edição tardia (padrão já visto no projeto). Tabela interna do dia 29/09: Manhã 08-12 (blocos de 1h), Tarde 13-17 (13-14, 14-15, 15-17); o bloco final de Safety Huddle passou a terminar às 17:00 (antes fim registrado era 16:00). Corrigido de 'Planejada' para 'Realizada' em 05/10/2026 (checagem de calendário, Passo 7): a visita já ocorreu — data anterior a hoje — sem evidência de cancelamento no documento-fonte.",
    "url": "https://drive.google.com/file/d/1cWEtxKoFY9O2b_0ByfkxJlIadfv3uQjK/view"
   },
   {
@@ -2954,20 +2954,20 @@
    "mes": "Outubro",
    "data": "08/10",
    "status": "Planejada",
-   "ini": null,
-   "fim": null,
-   "obs": "Só cronograma mensal — consultora Camila. Fonte: 'Cronograma Outubro AJ.docx', emissão/criação 03/09/2026.",
-   "url": "https://drive.google.com/file/d/15vY2Zz9CvMtsD67JK0KqT-TjhGSiWyFR/view"
+   "ini": "09:00",
+   "fim": "17:00",
+   "obs": "Agenda semanal detalhada 'Agenda semanal AJ 08 A 09-10.docx' substitui a entrada anterior sem horário. Doc criado 30/09/2026 23:48 e modificado 01/10/2026 00:07 (pós-snapshot 28/09). Tabela interna: Manhã 09-12 (3 blocos de 1h), Tarde 13-17. Campo de cabeçalho 'Período da agenda' é placeholder genérico, ignorado. ATENÇÃO: campo de cabeçalho 'Data de emissão' está preenchido como [30/10/2026], inconsistente com a assinatura final ('Belo Horizonte, 30/09/2026') — provável erro de digitação (mês trocado), sinalizado, não usado como referência.",
+   "url": "https://drive.google.com/file/d/1Xl0ENEY9jxIDthfsqf4Z2N31tjWvvTOM/view"
   },
   {
    "projeto": "AJ",
    "mes": "Outubro",
    "data": "09/10",
    "status": "Planejada",
-   "ini": null,
-   "fim": null,
-   "obs": "Ver observação de 08/10 — mesmo documento.",
-   "url": "https://drive.google.com/file/d/15vY2Zz9CvMtsD67JK0KqT-TjhGSiWyFR/view"
+   "ini": "08:00",
+   "fim": "17:00",
+   "obs": "Ver observação de 08/10 — mesmo documento. Tabela interna: Manhã 08-12 (4 blocos de 1h), Tarde 13-14, 15-16, 16-17 (14-15 sem atividade registrada).",
+   "url": "https://drive.google.com/file/d/1Xl0ENEY9jxIDthfsqf4Z2N31tjWvvTOM/view"
   },
   {
    "projeto": "AJ",
@@ -3944,20 +3944,20 @@
    "mes": "Outubro",
    "data": "07/10",
    "status": "Planejada",
-   "ini": null,
-   "fim": null,
-   "obs": "Só cronograma mensal ('TEMPLATE 10 - Reporte Cronograma Out.26.docx', criado e modificado 09/09/2026, primeiro registro de outubro para este projeto) — agenda detalhada ainda não emitida. Visita prevista 07-08/10/2026 com Lorena Vieira e Dra. Marinella Ananias.",
-   "url": "https://drive.google.com/file/d/14Rw7QxyphhFrLVCPHiwvM0mU3jbpwWv3/view"
+   "ini": "08:30",
+   "fim": "17:00",
+   "obs": "Agenda semanal detalhada emitida ('19. Agenda Visita HSR Out.26.docx', criada 28/09/2026 e modificada 01/10/2026 — após snapshot de 28/09/2026). Substitui a linha placeholder (só cronograma mensal, sem horário). Tabela interna: início 08:30 (Acompanhamento da operação in loco com Equipe de Comanejo / integração da nova médica na MH & Comanejo), fim 17:00 (16:30-17h Huddle NIR, EGA e MH) — coincide com o cabeçalho genérico. Visita ainda não ocorreu (data futura em relação a hoje, 05/10/2026).",
+   "url": "https://drive.google.com/file/d/1Ug59Kl0S0FsUGg0fyy08bwOK7fASLzDr/view"
   },
   {
    "projeto": "TEO",
    "mes": "Outubro",
    "data": "08/10",
    "status": "Planejada",
-   "ini": null,
-   "fim": null,
-   "obs": "Ver observação de 07/10 — mesmo documento.",
-   "url": "https://drive.google.com/file/d/14Rw7QxyphhFrLVCPHiwvM0mU3jbpwWv3/view"
+   "ini": "08:00",
+   "fim": "14:00",
+   "obs": "Ver observação de 07/10 — mesmo documento ('19. Agenda Visita HSR Out.26.docx'). Tabela interna: início 08:00 (Reunião com a UTI - apresentação da proposta do novo fluxo de solicitação de vaga), fim 14:00 ('Fechamento e ações propostas', item pontual sem intervalo de término explícito — sinalizado). Diverge do cabeçalho genérico (8:30-17h), ignorado conforme regra. Visita ainda não ocorreu.",
+   "url": "https://drive.google.com/file/d/1Ug59Kl0S0FsUGg0fyy08bwOK7fASLzDr/view"
   },
   {
    "projeto": "TEO",
@@ -3984,20 +3984,20 @@
    "mes": "Outubro",
    "data": "07/10",
    "status": "Planejada",
-   "ini": null,
-   "fim": null,
-   "obs": "Só cronograma mensal ('TEMPLATE 10 - Reporte Cronograma Out.26.docx', criado e modificado 08/09/2026) — agenda detalhada ainda não emitida. Visitante: Dr. Samuel Berni.",
-   "url": "https://drive.google.com/file/d/1TxfOVTJEdxEj1SHwQCRxP_9JNyAwYtz2/view"
+   "ini": "08:00",
+   "fim": "16:00",
+   "obs": "Horário atualizado a partir da agenda semanal detalhada '21. Agenda Visita CHSL Out.26.docx' (criado/modificado 01/10/2026, pós-snapshot), substitui o cronograma mensal genérico. Última atividade da tabela interna do dia 07/10: 13:30–16h (rotina da equipe EGA/auditoria de prontuários). Nota: documento identifica o visitante como 'Dr. Samuel Nolasco', enquanto o cronograma mensal e registro anterior usavam 'Dr. Samuel Berni' — provável mesma pessoa, grafia divergente, sinalizado para validação humana.",
+   "url": "https://drive.google.com/file/d/1yowktprTq3NOIFP0CZJH5pHtSqE_0kQL/view"
   },
   {
    "projeto": "SL",
    "mes": "Outubro",
    "data": "08/10",
    "status": "Planejada",
-   "ini": null,
-   "fim": null,
-   "obs": "Ver observação de 07/10 — mesmo documento.",
-   "url": "https://drive.google.com/file/d/1TxfOVTJEdxEj1SHwQCRxP_9JNyAwYtz2/view"
+   "ini": "08:00",
+   "fim": "16:00",
+   "obs": "Ver observação de 07/10 — mesmo documento ('21. Agenda Visita CHSL Out.26.docx'). Última atividade da tabela interna do dia 08/10: 15:30–16h (Fechamento e próximos passos).",
+   "url": "https://drive.google.com/file/d/1yowktprTq3NOIFP0CZJH5pHtSqE_0kQL/view"
   },
   {
    "projeto": "SL",
@@ -4024,10 +4024,10 @@
    "mes": "Outubro",
    "data": "07/10",
    "status": "Planejada",
-   "ini": null,
-   "fim": null,
-   "obs": "Cronograma mensal Outubro/26 (doc: _Cronograma Outubro.26 - HBB.docx, criado 21/09/2026, pasta Mensal/Outubro). Sem tabela de horários detalhada — apenas período macro. Consultores: Viviane, Vinícius. Foco: Safety Huddle + Plano Terapêutico + Round/Visita Multidisciplinar.",
-   "url": "https://drive.google.com/file/d/1y1YYGOTrq0RH2SSuzyFR2QfMS4RKybCw/view"
+   "ini": "08:00",
+   "fim": "17:00",
+   "obs": "Agenda semanal detalhada emitida em dois documentos para o mesmo dia 07/10/2026 (ambos pós-snapshot 28/09): (1) 'Agenda_semanal_UTI 07.10.docx' (emissão 30/09/2026) — consultora Viviane Boneli; tabela interna 08:00-17:00 (Manhã+Tarde), sem divergência do cabeçalho. (2) 'Agenda_semanal MH_ONCO 07.10.docx' (emissão 01/10/2026) — consultores Viviane Boneli, Carla Abich, Dr. Vinícius Sabedot; tabela interna 08:00-17:00, sem divergência. Confirmado também na planilha de controle 'HBB_Método MH + UTI' (aba Registros, modificada 05/10/2026): entradas de 07/10 status 'Planejado', sem indicação de cancelamento.",
+   "url": "https://drive.google.com/file/d/1usaS2vlDRF5g56xp7rd5wBtpXiJAbr3K/view"
   },
   {
    "projeto": "HBB",
@@ -4073,20 +4073,20 @@
    "projeto": "SL",
    "mes": "Setembro",
    "data": "30/09",
-   "status": "Planejada",
+   "status": "Realizada",
    "ini": "08:00",
    "fim": "16:00",
-   "obs": "doc: 19. Agenda Visita CHSL Set.26.docx, criado 24/09/2026, modificado 25/09/2026 (após snapshot de 21/09). Visitante: Enfª Lorena Vieira. Última atividade da tabela interna: 13:30-16h (operação in loco/Reunião Juliane, Serviço Social).",
+   "obs": "Corrigido de 'Planejada' para 'Realizada': confirmado na planilha 'Painel do projeto - HOSPITAL SAMUEL LIBANIO EGA' (aba Registros, lida por completo via xlsx, modificada em 02/10/2026) — registro de 30/09/2026, modalidade 'Visita enfermeiro', responsável Lorena, status 'Concluído'. Horários mantidos conforme tabela interna do doc '19. Agenda Visita CHSL Set.26.docx'.",
    "url": "https://drive.google.com/file/d/1pWrwx8OjIoTiNR_HENNZGSbS6HjqWhdv/view"
   },
   {
    "projeto": "SL",
    "mes": "Outubro",
    "data": "01/10",
-   "status": "Planejada",
+   "status": "Realizada",
    "ini": "08:00",
    "fim": "16:00",
-   "obs": "doc: 19. Agenda Visita CHSL Set.26.docx (mesma agenda de 30/09, cruza para outubro). Visitante: Samuel (manhã)/Lorena+Equipe EGA. Última atividade da tabela interna: 15:30-16h (Fechamento e próximos passos).",
+   "obs": "Corrigido de 'Planejada' para 'Realizada': confirmado na mesma planilha (aba Registros) — dois registros em 01/10/2026 com status 'Concluído': 'Visita enfermeiro' (Lorena) e 'Tutoria presencial' (Lorena). Horários mantidos conforme tabela interna do doc '19. Agenda Visita CHSL Set.26.docx'.",
    "url": "https://drive.google.com/file/d/1pWrwx8OjIoTiNR_HENNZGSbS6HjqWhdv/view"
   },
   {
@@ -4094,10 +4094,10 @@
    "mes": "Outubro",
    "data": "08/10",
    "status": "Planejada",
-   "ini": null,
-   "fim": null,
-   "obs": "doc: TEMPLATE 10 - Reporte Cronograma Outubro.26.docx, emitido 21/09/2026. Cronograma mensal sem agenda detalhada (só data prevista).",
-   "url": "https://drive.google.com/file/d/1Xhe4xtOd-7ly6nJIFGwhUIsogKApWreS/view"
+   "ini": "08:30",
+   "fim": "16:30",
+   "obs": "Agenda semanal detalhada 'Agenda_semanal_07 e 08.10.docx' (emitida 01/10/2026). Tabela interna do dia 08/10: primeiro bloco 08:30–09:00 (Alinhamento), último bloco 16:00–16:30 (Fechamento) → horário real 08:30–16:30 (diferente do cabeçalho genérico e do dia 07/10). Substitui a obs anterior que citava só o cronograma mensal (TEMPLATE 10).",
+   "url": "https://drive.google.com/file/d/1MEfyQF7at3KtoIJoYuk6DZcxR3Nfud91/view"
   },
   {
    "projeto": "SCBH",
@@ -4114,10 +4114,10 @@
    "mes": "Outubro",
    "data": "06/10",
    "status": "Planejada",
-   "ini": null,
-   "fim": null,
-   "obs": "Cronograma mensal (doc: _HSSM - Outubro 26_Cronograma Mensal .docx, emitido 21/09/2026). Foco: Avaliação de Prontuários, Comissões de Óbito e revisão de Prontuários. Consultores Emerson Hoffmann e Carla Abich. Sem agenda semanal detalhada publicada até o momento.",
-   "url": "https://drive.google.com/file/d/1ctHD9nyM3bKQXZkS-a9_0iUeyajvFaBp/view"
+   "ini": "08:00",
+   "fim": "17:00",
+   "obs": "Agenda semanal detalhada publicada (doc: Agenda_semanal_06.10.26.docx, emitido 29/09/2026, criado 29/09 e modificado 02/10/2026 — pós-snapshot 28/09). Cabeçalho diz 'Período da agenda: 08h30min às 17:00h', mas a TABELA INTERNA mostra primeiro bloco 08:00–08:30 (Chegada da equipe e alinhamento) e último bloco 15:30–17:00 (Fechamento) → horário extraído da tabela interna: 08:00–17:00. Visita ainda não realizada (hoje é 05/10). Pauta bate com cronograma mensal e planilha de controle (status 'Planejado').",
+   "url": "https://drive.google.com/file/d/1JbeyMR_l9yoiBtDdvqs8uItForYxue5D/view"
   },
   {
    "projeto": "HSSM",
@@ -4128,6 +4128,16 @@
    "fim": null,
    "obs": "Cronograma mensal (doc: _HSSM - Outubro 26_Cronograma Mensal .docx, emitido 21/09/2026). Foco: Transição de Cuidados e Protocolos Clínicos Assistenciais. Consultores Emerson Hoffmann e Carla Abich. Sem agenda semanal detalhada publicada até o momento.",
    "url": "https://drive.google.com/file/d/1ctHD9nyM3bKQXZkS-a9_0iUeyajvFaBp/view"
+  },
+  {
+   "projeto": "SCBH",
+   "mes": "Outubro",
+   "data": "07/10",
+   "status": "Planejada",
+   "ini": "08:30",
+   "fim": "17:00",
+   "obs": "Agenda semanal detalhada 'Agenda_semanal_07 e 08.10.docx' (criada e emitida em 01/10/2026, modificada 01/10/2026 17:53). Cabeçalho genérico diz '08:00h às 17h', mas a tabela interna do dia 07/10 mostra primeiro bloco 08:30–09:00 (Alinhamento) e último bloco 16:00–17:00 (Fechamento) → horário real 08:30–17:00. Este dia NÃO constava no cronograma mensal (TEMPLATE 10, emitido 21/09/2026), que previa apenas 08/10 e 15/10 — ATENÇÃO: possível mudança de padrão (visita de 2 dias consecutivos 07-08/10 em vez de 2 visitas separadas de 1 dia); 15/10 segue sem confirmação/cancelamento — requer validação humana.",
+   "url": "https://drive.google.com/file/d/1MEfyQF7at3KtoIJoYuk6DZcxR3Nfud91/view"
   }
  ]
 }
