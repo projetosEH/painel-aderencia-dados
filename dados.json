@@ -4092,6 +4092,16 @@
   {
    "projeto": "SCBH",
    "mes": "Outubro",
+   "data": "07/10",
+   "status": "Planejada",
+   "ini": "08:30",
+   "fim": "17:00",
+   "obs": "Agenda semanal detalhada 'Agenda_semanal_07 e 08.10.docx' (criada e emitida em 01/10/2026, modificada 01/10/2026 17:53). Cabeçalho genérico diz '08:00h às 17h', mas a tabela interna do dia 07/10 mostra primeiro bloco 08:30–09:00 (Alinhamento) e último bloco 16:00–17:00 (Fechamento) → horário real 08:30–17:00. Este dia NÃO constava no cronograma mensal (TEMPLATE 10, emitido 21/09/2026), que previa apenas 08/10 e 15/10 — ATENÇÃO: possível mudança de padrão (visita de 2 dias consecutivos 07-08/10 em vez de 2 visitas separadas de 1 dia); 15/10 segue sem confirmação/cancelamento — requer validação humana.",
+   "url": "https://drive.google.com/file/d/1MEfyQF7at3KtoIJoYuk6DZcxR3Nfud91/view"
+  },
+  {
+   "projeto": "SCBH",
+   "mes": "Outubro",
    "data": "08/10",
    "status": "Planejada",
    "ini": "08:30",
@@ -4128,16 +4138,6 @@
    "fim": null,
    "obs": "Cronograma mensal (doc: _HSSM - Outubro 26_Cronograma Mensal .docx, emitido 21/09/2026). Foco: Transição de Cuidados e Protocolos Clínicos Assistenciais. Consultores Emerson Hoffmann e Carla Abich. Sem agenda semanal detalhada publicada até o momento.",
    "url": "https://drive.google.com/file/d/1ctHD9nyM3bKQXZkS-a9_0iUeyajvFaBp/view"
-  },
-  {
-   "projeto": "SCBH",
-   "mes": "Outubro",
-   "data": "07/10",
-   "status": "Planejada",
-   "ini": "08:30",
-   "fim": "17:00",
-   "obs": "Agenda semanal detalhada 'Agenda_semanal_07 e 08.10.docx' (criada e emitida em 01/10/2026, modificada 01/10/2026 17:53). Cabeçalho genérico diz '08:00h às 17h', mas a tabela interna do dia 07/10 mostra primeiro bloco 08:30–09:00 (Alinhamento) e último bloco 16:00–17:00 (Fechamento) → horário real 08:30–17:00. Este dia NÃO constava no cronograma mensal (TEMPLATE 10, emitido 21/09/2026), que previa apenas 08/10 e 15/10 — ATENÇÃO: possível mudança de padrão (visita de 2 dias consecutivos 07-08/10 em vez de 2 visitas separadas de 1 dia); 15/10 segue sem confirmação/cancelamento — requer validação humana.",
-   "url": "https://drive.google.com/file/d/1MEfyQF7at3KtoIJoYuk6DZcxR3Nfud91/view"
   }
  ]
 }
